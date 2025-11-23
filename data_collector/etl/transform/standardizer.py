@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Dict, List, Set
 import pandas as pd
 from datetime import datetime
+from etl.transform.data_quality_validator import validate_pois
 
 logger = logging.getLogger("Standardizer")
 
@@ -52,13 +53,26 @@ class Standardizer:
         # Deduplicate
         unique_pois = self._deduplicate(cleaned_pois)
         
+        # ✨ NEW: Data Quality Validation
+        validated_pois, validation_stats = validate_pois(unique_pois, enhanced=True)
+        
+        logger.info(f"📊 Validation Results:")
+        logger.info(f"  Total: {validation_stats['total']}")
+        logger.info(f"  Valid: {validation_stats['valid']} ({validation_stats['valid']/validation_stats['total']*100:.1f}%)")
+        logger.info(f"  Rejected: {validation_stats['rejected']} ({validation_stats['rejected']/validation_stats['total']*100:.1f}%)")
+        
+        if validation_stats['rejection_reasons']:
+            logger.info(f"  Top rejection reasons:")
+            for reason, count in sorted(validation_stats['rejection_reasons'].items(), key=lambda x: x[1], reverse=True)[:3]:
+                logger.info(f"    - {reason}: {count}")
+        
         # Save to Silver
         output_dir = self.silver_dir / city_key
         output_dir.mkdir(parents=True, exist_ok=True)
         
         output_file = output_dir / "pois.json"
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(unique_pois, f, indent=2, ensure_ascii=False)
+            json.dump(validated_pois, f, indent=2, ensure_ascii=False)
             
         # Save metadata
         metadata = {
@@ -66,12 +80,14 @@ class Standardizer:
             "source_harvest": timestamps[0],
             "processed_at": datetime.now().isoformat(),
             "raw_count": len(raw_elements),
-            "clean_count": len(unique_pois)
+            "clean_count": len(unique_pois),
+            "validated_count": len(validated_pois),
+            "validation_stats": validation_stats
         }
         with open(output_dir / "metadata.json", 'w') as f:
             json.dump(metadata, f, indent=2)
             
-        logger.info(f"✅ Silver transformation complete for {city_name}. Saved {len(unique_pois)} POIs.")
+        logger.info(f"✅ Silver transformation complete for {city_name}. Saved {len(validated_pois)} validated POIs.")
         return True
 
     def _process_elements(self, elements: List[Dict]) -> List[Dict]:
@@ -104,6 +120,9 @@ class Standardizer:
                 "osm_id": f"{el['type']}/{el['id']}",
                 "name": name,
                 "category": category,
+                "poi_type": category,  # Required for validation
+                "lat": lat,  # Required for validation
+                "lon": lon,  # Required for validation
                 "coordinates": {"lat": lat, "lon": lon},
                 "tags": tags
             }
