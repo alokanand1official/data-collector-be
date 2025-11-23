@@ -6,6 +6,7 @@ from typing import Dict, List, Set
 import pandas as pd
 from datetime import datetime
 from etl.transform.data_quality_validator import validate_pois
+from etl.transform.name_translator import translate_poi_names
 
 logger = logging.getLogger("Standardizer")
 
@@ -53,8 +54,18 @@ class Standardizer:
         # Deduplicate
         unique_pois = self._deduplicate(cleaned_pois)
         
-        # ✨ NEW: Data Quality Validation
-        validated_pois, validation_stats = validate_pois(unique_pois, enhanced=True)
+        # ✨ NEW: Name Translation
+        translated_pois, translation_stats = translate_poi_names(unique_pois)
+        
+        logger.info(f"🌍 Translation Results:")
+        logger.info(f"  Total: {translation_stats['total']}")
+        logger.info(f"  Already English: {translation_stats['already_english']}")
+        logger.info(f"  OSM English tags: {translation_stats['osm_english']}")
+        logger.info(f"  Transliterated: {translation_stats['transliterated']}")
+        logger.info(f"  Failed: {translation_stats['failed']}")
+        
+        # ✨ Data Quality Validation
+        validated_pois, validation_stats = validate_pois(translated_pois, enhanced=True)
         
         logger.info(f"📊 Validation Results:")
         logger.info(f"  Total: {validation_stats['total']}")
@@ -81,6 +92,8 @@ class Standardizer:
             "processed_at": datetime.now().isoformat(),
             "raw_count": len(raw_elements),
             "clean_count": len(unique_pois),
+            "translated_count": len(translated_pois),
+            "translation_stats": translation_stats,
             "validated_count": len(validated_pois),
             "validation_stats": validation_stats
         }
