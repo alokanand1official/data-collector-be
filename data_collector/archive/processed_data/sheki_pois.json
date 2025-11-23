@@ -1,0 +1,2412 @@
+[
+  {
+    "name": "Dağ Karvansara",
+    "name_local": "Dağ Karvansara",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2123178,
+      "lng": 47.135717
+    },
+    "osm_id": "node/7997920131",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Dağ Karvansara"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe \\ İncə",
+    "name_local": "Kafe \\ İncə",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2364325,
+      "lng": 47.1101447
+    },
+    "osm_id": "node/7998020017",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Şəki rayonu",
+        "amenity": "cafe",
+        "name": "Kafe \\ İncə"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Karvansara Hotel \\ Şəki",
+    "name_local": "Karvansara Hotel \\ Şəki",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2010097,
+      "lng": 47.1940758
+    },
+    "osm_id": "node/1386077239",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Karvansara Hotel \\ Şəki",
+        "smoking": "yes",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Sheki Saray Hotel",
+    "name_local": "Şəki Saray Otel \\ Şəki",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2029003,
+      "lng": 47.1785494
+    },
+    "osm_id": "node/1386077243",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Şəki",
+        "addr:country": "AZ",
+        "addr:housenumber": "187",
+        "addr:postcode": "AZ5500",
+        "addr:street": "Rəsulzadə küç.",
+        "name": "Şəki Saray Otel \\ Şəki",
+        "name:en": "Sheki Saray Hotel",
+        "note": "Make a reservation: http://www.booking.com/hotel/az/sheki-saray.html",
+        "phone": "+994242448181",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.shekisaray.az/",
+        "wheelchair": "yes"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Chalabi Xan",
+    "name_local": "Çələbi Xan Restoranı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2030217,
+      "lng": 47.179497
+    },
+    "osm_id": "node/1391224687",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Çələbi Xan Restoranı \\ Şəki",
+        "name:en": "Chalabi Xan"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Xan Bagi",
+    "name_local": "Sahin Kafesi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2038592,
+      "lng": 47.1966469
+    },
+    "osm_id": "node/1391224705",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Sahin Kafesi",
+        "name:en": "Xan Bagi"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Shaki Hotel",
+    "name_local": "Şəki Otel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2025361,
+      "lng": 47.1800466
+    },
+    "osm_id": "node/2523807113",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki Otel",
+        "name:en": "Shaki Hotel",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Church of Saint Elishe \\ Kish",
+    "name_local": "Müqəddəs Yelisey kilsəsi \\ Kiş",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.2490039,
+      "lng": 47.1932787
+    },
+    "osm_id": "node/3303227547",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Kiş",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "historic": "yes",
+        "int_name": "Church of Saint Elishe",
+        "name": "Müqəddəs Yelisey kilsəsi \\ Kiş",
+        "name:az": "Müqəddəs Yelisey kilsəsi \\ Kiş",
+        "name:en": "Church of Saint Elishe \\ Kish",
+        "name:pl": "Kościół św. Elizeusza \\ Kisz",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikipedia": "en:Church_of_Kish"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qaqarin restoranı \\ Şəki",
+    "name_local": "Qaqarin restoranı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.200495,
+      "lng": 47.1957392
+    },
+    "osm_id": "node/4341051290",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Qaqarin restoranı \\ Şəki",
+        "name:az": "Qaqarin restoranı \\ Şəki",
+        "name:ru": "Ресторан Гагарин Шеки"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Hunters corner",
+    "name_local": "Ovçular Məkanı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2005732,
+      "lng": 47.1864608
+    },
+    "osm_id": "node/4341306322",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-07-18",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "name": "Ovçular Məkanı \\ Şəki",
+        "name:en": "Hunters corner",
+        "opening_hours": "24/7",
+        "wheelchair": "no"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Taxta cai evi",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2014023,
+      "lng": 47.1760421
+    },
+    "osm_id": "node/4434357098",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Taxta cai evi"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe Bagdad",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2023206,
+      "lng": 47.1672896
+    },
+    "osm_id": "node/4434357903",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Kafe Bagdad"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Bizim Ailə",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2025535,
+      "lng": 47.1799134
+    },
+    "osm_id": "node/4434661294",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "turkish",
+        "internet_access": "wlan",
+        "name:en": "Bizim Ailə"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Omar Efendi Mosque",
+    "name_local": "Ömər Əfəndi məscidi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.2004767,
+      "lng": 47.1877656
+    },
+    "osm_id": "node/4434691492",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:door": "161",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "check_date": "2023-07-18",
+        "historic": "yes",
+        "name": "Ömər Əfəndi məscidi",
+        "name:en": "Omar Efendi Mosque",
+        "religion": "muslim",
+        "tourism": "attraction",
+        "wikipedia": "en:Omar_Efendi_Mosque",
+        "wikipedia:en": "en:Omar_Efendi_Mosque"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Bahar Kafe \\ Şəki",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2019426,
+      "lng": 47.1766895
+    },
+    "osm_id": "node/4434725389",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Bahar Kafe \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qədim Şəki",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2009011,
+      "lng": 47.175582
+    },
+    "osm_id": "node/4436578702",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Qədim Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qrand şadlıq sarayı",
+    "name_local": "Qrand şadlıq sarayı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2022406,
+      "lng": 47.1800297
+    },
+    "osm_id": "node/4979746123",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Qrand şadlıq sarayı"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Shaki Azerbaijan",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2009941,
+      "lng": 47.1975266
+    },
+    "osm_id": "node/5010907722",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "0242441845",
+        "addr:street": "Azadliq",
+        "email": "nushaba98@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Shaki Azerbaijan",
+        "name:tr": "Elövsət Hostels",
+        "opening_hours": "24/7",
+        "operator": "elofset",
+        "phone": "+994552697085",
+        "tourism": "hotel",
+        "website": "http://nushaba98@gmail.com"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Taza Bazar (Local Market)",
+    "name_local": "Taza Bazar \\ Şəki",
+    "poi_type": "market",
+    "coordinates": {
+      "lat": 41.2008462,
+      "lng": 47.166324
+    },
+    "osm_id": "node/5084206122",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Mikayıl Müsfiq küç.",
+        "amenity": "marketplace",
+        "name": "Taza Bazar \\ Şəki",
+        "name:en": "Taza Bazar (Local Market)"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Sheki Art Club Cafe",
+    "name_local": "VMF kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2003514,
+      "lng": 47.1918958
+    },
+    "osm_id": "node/5084207722",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "81",
+        "addr:street": "Mirzə Fətəli Axundzadə prospekti",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "VMF kafe",
+        "name:en": "Sheki Art Club Cafe",
+        "website": "https://www.vmfkafe.com/"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Shakikhanov (Winter) Palace \\ Şəki",
+    "name_local": "Şəkixanovlar Ev Muzeyi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.202646,
+      "lng": 47.1903088
+    },
+    "osm_id": "node/5088734123",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Şəkixanovlar Ev Muzeyi",
+        "name:en": "Shakikhanov (Winter) Palace \\ Şəki",
+        "name:ru": "Дом Шекихановых",
+        "wikipedia": "az: Şəkixanovların_evi",
+        "wikipedia:az": "az:Şəkixanovların_evi",
+        "wikipedia:en": "en:Shakikhanovs%27_Palace"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Muğan kafe",
+    "name_local": "Muğan kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2003948,
+      "lng": 47.1768564
+    },
+    "osm_id": "node/5142511621",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Muğan kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Dadlılar Kafe",
+    "name_local": "Dadlılar Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2001762,
+      "lng": 47.1894068
+    },
+    "osm_id": "node/5193921127",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "name": "Dadlılar Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qafqaz Restoranı",
+    "name_local": "Qafqaz Restoranı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2051937,
+      "lng": 47.1820226
+    },
+    "osm_id": "node/5500564021",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Qafqaz Restoranı"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Tandir çörayi",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2028656,
+      "lng": 47.1958896
+    },
+    "osm_id": "node/5840157288",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Tandir çörayi"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qədim Kiş Restoran",
+    "name_local": "Qədim Kiş Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2492479,
+      "lng": 47.1932393
+    },
+    "osm_id": "node/5840171685",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "name": "Qədim Kiş Restoran"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Mirza Fatali Akhundov monument",
+    "name_local": "Axundov heykəli \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2035523,
+      "lng": 47.1782997
+    },
+    "osm_id": "node/5867003585",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Axundov heykəli \\ Şəki",
+        "name:en": "Mirza Fatali Akhundov monument"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Thor Heyerdhal",
+    "name_local": "Tur Heyerdal \\ Kiş",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2491319,
+      "lng": 47.193497
+    },
+    "osm_id": "node/6008070092",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Tur Heyerdal \\ Kiş",
+        "name:en": "Thor Heyerdhal"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Great sunset viewpoint",
+    "name_local": null,
+    "poi_type": "viewpoint",
+    "coordinates": {
+      "lat": 41.2027043,
+      "lng": 47.196025
+    },
+    "osm_id": "node/6008089689",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Great sunset viewpoint",
+        "tourism": "viewpoint",
+        "wikimedia_commons": "File:Sheki.jpg"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Shaki Museum of History and Local Lore",
+    "name_local": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.2037205,
+      "lng": 47.1957332
+    },
+    "osm_id": "node/6010366988",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+        "name:en": "Shaki Museum of History and Local Lore",
+        "name:pl": "Muzeum Regionalne",
+        "tourism": "museum",
+        "wikidata": "Q47536155",
+        "wikimedia_commons": "File:Sheki Museum of History and Local Lore.jpg",
+        "wikipedia": "en:Shaki Museum of History and Local Lore"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Sheki State Art Gallery",
+    "name_local": "Şəki Dövlət Rəsm Qalereyası",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.2034674,
+      "lng": 47.1953165
+    },
+    "osm_id": "node/6010366989",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki Dövlət Rəsm Qalereyası",
+        "name:en": "Sheki State Art Gallery",
+        "name:pl": "Państwowa Galeria Sztuki",
+        "tourism": "museum",
+        "wikimedia_commons": "File:Sheki State Art Gallery.jpg"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe Mərkəzi Park \\ Şəki",
+    "name_local": "Kafe Mərkəzi Park \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2029091,
+      "lng": 47.1805462
+    },
+    "osm_id": "node/6047933485",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe Mərkəzi Park \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şeki Khan Palace",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.204392,
+      "lng": 47.1977322
+    },
+    "osm_id": "node/6052332286",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "castle",
+        "name:be": "Палац Шэкінскіх ханаў",
+        "name:en": "Şeki Khan Palace",
+        "name:ru": "Дворец Шекинских ханов",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+994516185973"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ali Mammadin Piti House",
+    "name_local": "Əli Məmməd Pitisi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2042131,
+      "lng": 47.1768381
+    },
+    "osm_id": "node/6447718085",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Əli Məmməd Pitisi",
+        "name:en": "Ali Mammadin Piti House",
+        "opening_hours": "Mo-Su 10:00-17:00"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Espresso House",
+    "name_local": "İlli Espresso",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2007454,
+      "lng": 47.1930882
+    },
+    "osm_id": "node/6565749185",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "İlli Espresso",
+        "name:en": "Espresso House"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Khan Chinar",
+    "name_local": "Xan Çinar",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2028996,
+      "lng": 47.1674873
+    },
+    "osm_id": "node/6617248585",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Xan Çinar",
+        "name:en": "Khan Chinar",
+        "operator": "Kamil"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Restaurant with local food",
+    "name_local": "Ev xörəkləri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2014582,
+      "lng": 47.1822447
+    },
+    "osm_id": "node/6906505386",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Ev xörəkləri",
+        "name:en": "Restaurant with local food"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Local cafe",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2023959,
+      "lng": 47.1750191
+    },
+    "osm_id": "node/6906505586",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Local cafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kərpic",
+    "name_local": "Kərpic",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2051626,
+      "lng": 47.1675742
+    },
+    "osm_id": "node/7494486909",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Kərpic"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Milli Mətbəxt \\ Şəki",
+    "name_local": "Milli Mətbəxt \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2064519,
+      "lng": 47.1678545
+    },
+    "osm_id": "node/7494486910",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Milli Mətbəxt \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ləziz Restoranı \\ Şəki",
+    "name_local": "Ləziz Restoranı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2061191,
+      "lng": 47.1665318
+    },
+    "osm_id": "node/7494486911",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Ləziz Restoranı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şəki Palace Restoran",
+    "name_local": "Şəki Palace Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2006521,
+      "lng": 47.1951077
+    },
+    "osm_id": "node/7973913437",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Şəki Palace Restoran"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Upper Caravanserai",
+    "name_local": "Yuxarı Karvansara \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2009548,
+      "lng": 47.1940617
+    },
+    "osm_id": "node/7976541514",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Yuxarı Karvansara \\ Şəki",
+        "name:az": "Yuxarı Karvansara \\ Şəki",
+        "name:en": "Upper Caravanserai",
+        "tourism": "attraction",
+        "wikidata": "Q4522517",
+        "wikimedia_commons": "Category:Upper Caravanserai",
+        "wikipedia": "en:Shaki_Caravanserai",
+        "wikipedia:az": "az:Yuxarı_Karvansara_(Şəki)",
+        "wikipedia:en": "en:Shaki_Caravanserai"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Lower Caravanserai",
+    "name_local": "Aşağı Karvansaray \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2006531,
+      "lng": 47.1917537
+    },
+    "osm_id": "node/7976541515",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "heritage": "yes",
+        "heritage:operator": "az",
+        "historic": "manor",
+        "name": "Aşağı Karvansaray \\ Şəki",
+        "name:az": "Aşağı Karvansaray \\ Şəki",
+        "name:en": "Lower Caravanserai",
+        "tourism": "attraction",
+        "wikidata": "Q16417458",
+        "wikimedia_commons": "Category:Lower Caravanserai",
+        "wikipedia": "en:Ashaghy caravanserai",
+        "wikipedia:az": "az:Aşağı_Karvansara_(Şəki)",
+        "wikipedia:en": "en:Ashaghy_caravanserai"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Abdulxalq Hamamı \\ Şəki",
+    "name_local": "Abdulxalq Hamamı \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2090075,
+      "lng": 47.179158
+    },
+    "osm_id": "node/7982512242",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "shower",
+        "name": "Abdulxalq Hamamı \\ Şəki",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ailəvi restoran",
+    "name_local": "Ailəvi restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2305043,
+      "lng": 47.1763658
+    },
+    "osm_id": "node/7982513809",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Ailəvi restoran"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2312668,
+      "lng": 47.1779135
+    },
+    "osm_id": "node/7982513810",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şirniyat Kafe",
+    "name_local": "Şirniyat Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2338487,
+      "lng": 47.1794075
+    },
+    "osm_id": "node/7982513816",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Şirniyat Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qurcana",
+    "name_local": "Qurcana",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2015229,
+      "lng": 47.1820253
+    },
+    "osm_id": "node/7982559830",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Qurcana"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şah Palace Otel \\ Şəki",
+    "name_local": "Şah Palace Otel \\ Şəki",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2030909,
+      "lng": 47.1782354
+    },
+    "osm_id": "node/7982559831",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Şəki",
+        "name": "Şah Palace Otel \\ Şəki",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Yaffle Inn Otel",
+    "name_local": "Yaffle Inn Otel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.204328,
+      "lng": 47.1778625
+    },
+    "osm_id": "node/7982559841",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Yaffle Inn Otel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şəki Palace Otel",
+    "name_local": "Şəki Palace Otel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2005976,
+      "lng": 47.1947752
+    },
+    "osm_id": "node/7982613735",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki Palace Otel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Sultan",
+    "name_local": "Sultan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2008045,
+      "lng": 47.192663
+    },
+    "osm_id": "node/7982613742",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Sultan"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "İstambul Restoranı \\ Şəki",
+    "name_local": "İstambul Restoranı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2004735,
+      "lng": 47.167882
+    },
+    "osm_id": "node/7985795445",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "İstambul Restoranı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Heydər Əliyev abidəsi \\ Şəki",
+    "name_local": "Heydər Əliyev abidəsi \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2037478,
+      "lng": 47.1815948
+    },
+    "osm_id": "node/7985800237",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Heydər Əliyev abidəsi \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Mersin Restoran",
+    "name_local": "Mersin Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2023584,
+      "lng": 47.1800673
+    },
+    "osm_id": "node/7985800241",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Mersin Restoran"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qonaq Evi Şah İsmayıl",
+    "name_local": "Qonaq Evi Şah İsmayıl",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2003867,
+      "lng": 47.1756202
+    },
+    "osm_id": "node/7985800278",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Qonaq Evi Şah İsmayıl",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Gənclik Restoran \\ Şəki",
+    "name_local": "Gənclik Restoran \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2018185,
+      "lng": 47.167878
+    },
+    "osm_id": "node/7985837843",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Gənclik Restoran \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Axundov heykəli \\ Şəki",
+    "name_local": "Axundov heykəli \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2048042,
+      "lng": 47.1667555
+    },
+    "osm_id": "node/7993080900",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Axundov heykəli \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Soyuq Bulaq restoran",
+    "name_local": "Soyuq Bulaq restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2413488,
+      "lng": 47.1866561
+    },
+    "osm_id": "node/7993237483",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Soyuq Bulaq restoran"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kiş Qapısı",
+    "name_local": "Kiş Qapısı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2434796,
+      "lng": 47.1884868
+    },
+    "osm_id": "node/7995694085",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Kiş Qapısı"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kiş Adası",
+    "name_local": "Kiş Adası",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.244851,
+      "lng": 47.1897608
+    },
+    "osm_id": "node/7995694086",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Kiş Adası"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "İlhamə Çay \\ Kiş",
+    "name_local": "İlhamə Çay \\ Kiş",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2488189,
+      "lng": 47.1929908
+    },
+    "osm_id": "node/7995755950",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "İlhamə Çay \\ Kiş"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Piti House",
+    "name_local": "Piti House",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2443418,
+      "lng": 47.1996219
+    },
+    "osm_id": "node/7995765482",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Piti House"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Səma Restoranı",
+    "name_local": "Səma Restoranı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2083578,
+      "lng": 47.1608439
+    },
+    "osm_id": "node/7995783123",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Səma Restoranı"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ağ Qaya restoran \\ Qoxmuq",
+    "name_local": "Ağ Qaya restoran \\ Qoxmuq",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2085576,
+      "lng": 47.1561594
+    },
+    "osm_id": "node/7995783130",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Ağ Qaya restoran \\ Qoxmuq"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Heydər Əliyev heykəli",
+    "name_local": "Heydər Əliyev heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2103514,
+      "lng": 47.1596637
+    },
+    "osm_id": "node/7997938199",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Heydər Əliyev heykəli"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Underground bath 19th century",
+    "name_local": "Yeraltı hamam 19-cu əsr \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2030123,
+      "lng": 47.1811751
+    },
+    "osm_id": "node/8312827199",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Yeraltı hamam 19-cu əsr \\ Şəki",
+        "name:en": "Underground bath 19th century"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Aghvan's hammam 19th c.",
+    "name_local": "Albanlar hamamı 19-cu əsr \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2004896,
+      "lng": 47.1895168
+    },
+    "osm_id": "node/8312827200",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Albanlar hamamı 19-cu əsr \\ Şəki",
+        "name:az": "Ağvanlar hamamı 19-cu əsr \\ Şəki",
+        "name:en": "Aghvan's hammam 19th c.",
+        "tourism": "attraction",
+        "wikimedia_commons": "Category:Aghvanlar Bathhouse"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Firuzə Şadlıq Sarayı \\ Şəki",
+    "name_local": "Firuzə Şadlıq Sarayı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2023665,
+      "lng": 47.1639767
+    },
+    "osm_id": "node/9951543932",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Firuzə Şadlıq Sarayı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Hamam XIX əsr \\ Şəki",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.2029334,
+      "lng": 47.1811323
+    },
+    "osm_id": "node/11019605405",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Hamam XIX əsr \\ Şəki",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Old Town",
+    "name_local": "Old Town",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2005585,
+      "lng": 47.1867628
+    },
+    "osm_id": "node/11053543184",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "check_date": "2025-07-24",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "level": "0",
+        "name": "Old Town",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Macara Sheki City Hotel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2042246,
+      "lng": 47.1744982
+    },
+    "osm_id": "node/11288732869",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "AZ5500",
+        "addr:street": "Şəhriyar küç.",
+        "email": "sheki@macaraclub.az",
+        "internet_access": "wlan",
+        "name:en": "Macara Sheki City Hotel",
+        "opening_hours": "24/7",
+        "phone": "+994702061177",
+        "tourism": "hotel",
+        "website": "https://sheki.macaraclub.az/"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Beaming House",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.202725,
+      "lng": 47.1757827
+    },
+    "osm_id": "node/11771258969",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "64",
+        "addr:street": "Şəhriyar küç.",
+        "name:en": "Beaming House",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Cafe Central",
+    "name_local": "Cafe Central",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2040069,
+      "lng": 47.1791737
+    },
+    "osm_id": "node/11813733587",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Cafe Central"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Restoran Karavanasay",
+    "name_local": "Restoran Karavanasay",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.201067,
+      "lng": 47.1931445
+    },
+    "osm_id": "node/13089009501",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Restoran Karavanasay"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Marxal Palace",
+    "name_local": "Marxal Palace",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2452027,
+      "lng": 47.2025301
+    },
+    "osm_id": "node/5348437321",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Marxal Palace",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Marxal Kenpinq",
+    "name_local": "Marxal Kenpinq",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.2465672,
+      "lng": 47.2057012
+    },
+    "osm_id": "node/7993178553",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Marxal Kenpinq",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Nuxa Restaurant",
+    "name_local": "Nuxa Restaurant",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2438051,
+      "lng": 47.2048826
+    },
+    "osm_id": "node/11183136652",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Nuxa Restaurant"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ipek Restaurant",
+    "name_local": "Ipek Restaurant",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.2448127,
+      "lng": 47.2024685
+    },
+    "osm_id": "node/11183136653",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Ipek Restaurant"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Khan's Pasture",
+    "name_local": "Xan Yaylağı",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.231526,
+      "lng": 47.2299708
+    },
+    "osm_id": "node/11222943762",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "yes",
+        "name": "Xan Yaylağı",
+        "name:en": "Khan's Pasture"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1982575,
+      "lng": 47.1282095
+    },
+    "osm_id": "node/8306619079",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "1941-1945 War Memorial and City Panorama",
+    "name_local": "1941-1945 Abidə \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1983336,
+      "lng": 47.1857128
+    },
+    "osm_id": "node/4308357489",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "access": "yes",
+        "historic": "monument",
+        "memorial": "war_memorial",
+        "name": "1941-1945 Abidə \\ Şəki",
+        "name:en": "1941-1945 War Memorial and City Panorama"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Üc Bucaq",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1820008,
+      "lng": 47.1703526
+    },
+    "osm_id": "node/4434330199",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Üc Bucaq"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Rahat Kafe",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1986786,
+      "lng": 47.1670446
+    },
+    "osm_id": "node/4434330200",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Rahat Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Daddu",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1617735,
+      "lng": 47.1643125
+    },
+    "osm_id": "node/4434357691",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Daddu"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Təbriz Restoran \\ Şəki",
+    "name_local": "Təbriz Restoran \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1626131,
+      "lng": 47.1610523
+    },
+    "osm_id": "node/4434357895",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Təbriz Restoran \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ruzi Şadlıq Sarayı",
+    "name_local": "Ruzi Şadlıq Sarayı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1921873,
+      "lng": 47.1659224
+    },
+    "osm_id": "node/4434387093",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Ruzi Şadlıq Sarayı"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Min Bir Geca Kafe",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1576005,
+      "lng": 47.1792307
+    },
+    "osm_id": "node/4434387189",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Min Bir Geca Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Karusel \\ Şəki",
+    "name_local": "Karusel \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1631058,
+      "lng": 47.1580177
+    },
+    "osm_id": "node/4436716790",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Karusel \\ Şəki",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şəki HII Motel",
+    "name_local": "Şəki HII Motel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.1599803,
+      "lng": 47.1659183
+    },
+    "osm_id": "node/4499609114",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki HII Motel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Inci Design Hotel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.1994086,
+      "lng": 47.1754265
+    },
+    "osm_id": "node/5084218523",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Mikayıl Müsfiq",
+        "email": "incidesignhotel@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Inci Design Hotel",
+        "operator": "Samir M",
+        "phone": "+994552045561",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Horse rental",
+    "name_local": "At kirayə",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.195727,
+      "lng": 47.191152
+    },
+    "osm_id": "node/6050812402",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "At kirayə",
+        "name:en": "Horse rental",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Sərin Restoran \\ Şəki",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1964609,
+      "lng": 47.1672808
+    },
+    "osm_id": "node/6187539892",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Izzat Qamidov",
+        "amenity": "restaurant",
+        "cuisine": "regional;local;kebab;oriental",
+        "internet_access": "wlan",
+        "name:en": "Sərin Restoran \\ Şəki",
+        "opening_hours": "Mo-Su 08:00-00:00",
+        "operator": "Rafik",
+        "phone": "+994552227759"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Nuran Kafe",
+    "name_local": "Nuran Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1995638,
+      "lng": 47.1777574
+    },
+    "osm_id": "node/6349546234",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Nuran Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Sunset Viewpoint and City Panorama",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1980886,
+      "lng": 47.1849817
+    },
+    "osm_id": "node/6661744385",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Sunset Viewpoint and City Panorama",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Şəki şəhəri ümumi görünüş. çaykənarı.jpg"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "CAFE COKE",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1686344,
+      "lng": 47.1681211
+    },
+    "osm_id": "node/6726426485",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "CAFE COKE",
+        "name:ru": "Кафэ Джоке"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Zirə Restoran \\ Şəki",
+    "name_local": "Zirə Restoran \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1538605,
+      "lng": 47.1916974
+    },
+    "osm_id": "node/7964810545",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Zirə Restoran \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Edem Şadlıq Sarayı \\ Şəki",
+    "name_local": "Edem Şadlıq Sarayı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.17139,
+      "lng": 47.1543797
+    },
+    "osm_id": "node/7969177370",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Edem Şadlıq Sarayı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Gülüstan Kafe \\ Şəki",
+    "name_local": "Gülüstan Kafe \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1685815,
+      "lng": 47.1710323
+    },
+    "osm_id": "node/7969677692",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Gülüstan Kafe \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Manqal Kafe \\ Şəki",
+    "name_local": "Manqal Kafe \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1686965,
+      "lng": 47.1704757
+    },
+    "osm_id": "node/7969677693",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Manqal Kafe \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Görüş Kafe \\ Şəki",
+    "name_local": "Görüş Kafe \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.169587,
+      "lng": 47.1679772
+    },
+    "osm_id": "node/7969677695",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Görüş Kafe \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "FM restoran \\ Şəki",
+    "name_local": "FM restoran \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1636567,
+      "lng": 47.1560495
+    },
+    "osm_id": "node/7969677701",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "FM restoran \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Zirvə Kafe",
+    "name_local": "Zirvə Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1606389,
+      "lng": 47.1636066
+    },
+    "osm_id": "node/7969677703",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Zirvə Kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Dastan restoranı \\ Şəki",
+    "name_local": "Dastan restoranı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.166954,
+      "lng": 47.1672383
+    },
+    "osm_id": "node/7969677709",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Dastan restoranı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qədim Şəki kafe",
+    "name_local": "Qədim Şəki kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.160234,
+      "lng": 47.1652749
+    },
+    "osm_id": "node/7985607861",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Qədim Şəki kafe"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Palma kafe \\ Şəki",
+    "name_local": "Palma kafe \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1654538,
+      "lng": 47.1822774
+    },
+    "osm_id": "node/7985655506",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Palma kafe \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Gülab Çay",
+    "name_local": "Gülab Çay",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.193777,
+      "lng": 47.1656799
+    },
+    "osm_id": "node/7985918250",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Gülab Çay"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şəki Şadlıq Sarayı \\ Kərkük Sarayı",
+    "name_local": "Şəki Şadlıq Sarayı \\ Kərkük Sarayı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1657264,
+      "lng": 47.1530575
+    },
+    "osm_id": "node/7993080955",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Şəki Şadlıq Sarayı \\ Kərkük Sarayı"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "2-ci fabrikin binası 19-cu əsr",
+    "name_local": "2-ci fabrikin binası 19-cu əsr",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1897806,
+      "lng": 47.1727583
+    },
+    "osm_id": "node/8312865116",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "2-ci fabrikin binası 19-cu əsr"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qışlaq hamamı 19-cu əsr",
+    "name_local": "Qışlaq hamamı 19-cu əsr",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1872878,
+      "lng": 47.1712026
+    },
+    "osm_id": "node/8312885557",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Qışlaq hamamı 19-cu əsr"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Aytac Şadlıq Sarayı \\ Şəki",
+    "name_local": "Aytac Şadlıq Sarayı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1644846,
+      "lng": 47.153437
+    },
+    "osm_id": "node/9951543756",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Aytac Şadlıq Sarayı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Məkan Çay Evi i \\ Şəki",
+    "name_local": "Məkan Çay Evi i \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1858445,
+      "lng": 47.1599829
+    },
+    "osm_id": "node/9951543845",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Məkan Çay Evi i \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Yeganə Mərasim Zalı \\ Şəki",
+    "name_local": "Yeganə Mərasim Zalı \\ Şəki",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.193995,
+      "lng": 47.1634054
+    },
+    "osm_id": "node/9951543903",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Yeganə Mərasim Zalı \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Tea Mood",
+    "name_local": "Tea Mood",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.1928164,
+      "lng": 47.1735413
+    },
+    "osm_id": "node/10271091438",
+    "description": "Tea, coffee, chicha, games",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "description": "Tea, coffee, chicha, games",
+        "name": "Tea Mood"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qala Hotel \\ Şəki",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.1976092,
+      "lng": 47.1840251
+    },
+    "osm_id": "node/11816373969",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Qala Hotel \\ Şəki",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Grey Stone Castle",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1976886,
+      "lng": 47.1842183
+    },
+    "osm_id": "node/11816374069",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Grey Stone Castle",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Şəki \"Yuxarıbaş\" mənzərə şəkli.jpg"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Green Hill Inn Otel \\ Şəki",
+    "name_local": "Green Hill Inn Otel \\ Şəki",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.1982555,
+      "lng": 47.1876794
+    },
+    "osm_id": "node/13159808042",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Green Hill Inn Otel \\ Şəki",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Hotel \\ Ərəkit",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.8510023,
+      "lng": 48.3910196
+    },
+    "osm_id": "node/6673235987",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Hotel \\ Ərəkit",
+        "opening_hours": "24/7",
+        "phone": "+994505283227",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Otel \\ Ərəkit",
+    "name_local": "Otel \\ Ərəkit",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.851248,
+      "lng": 48.38855
+    },
+    "osm_id": "node/7774166033",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Otel \\ Ərəkit",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Tarix muzeyi \\ Ərəkit",
+    "name_local": "Tarix muzeyi \\ Ərəkit",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8510512,
+      "lng": 48.3886841
+    },
+    "osm_id": "node/7774166034",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Tarix muzeyi \\ Ərəkit",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Gurbulaq caravanserai 15th c. \\ Ərəkit",
+    "name_local": "Gurbulaq Karvansara 15-ci əsr \\ Ərəkit",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8514793,
+      "lng": 48.3889336
+    },
+    "osm_id": "node/7774166035",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Gurbulaq Karvansara 15-ci əsr \\ Ərəkit",
+        "name:en": "Gurbulaq caravanserai 15th c. \\ Ərəkit",
+        "name:ru": "Каравансарай Гюрбулаг 15-й век \\ Арагит",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Hamam",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.8509536,
+      "lng": 48.3894691
+    },
+    "osm_id": "node/7947791985",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "Hamam"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Lahıc diyarşünaslıq muzeyi",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8453611,
+      "lng": 48.3832538
+    },
+    "osm_id": "node/4382535791",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Lahıc diyarşünaslıq muzeyi",
+        "name:ja": "博物館",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Local Handicraft Stalls \\ Lahıc",
+    "name_local": "Local Handicraft Stalls \\ Lahıc",
+    "poi_type": "market",
+    "coordinates": {
+      "lat": 40.8461927,
+      "lng": 48.3827222
+    },
+    "osm_id": "node/4788069040",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "marketplace",
+        "name": "Local Handicraft Stalls \\ Lahıc",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "observation deck",
+    "name_local": "Seyrangah",
+    "poi_type": "viewpoint",
+    "coordinates": {
+      "lat": 40.8404904,
+      "lng": 48.3551557
+    },
+    "osm_id": "node/6473024987",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Lahıc yolu",
+        "name": "Seyrangah",
+        "name:en": "observation deck",
+        "name:ru": "Обзорная площадка",
+        "tourism": "viewpoint"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Bəylərbəyi Sarayı \\ Lahıc",
+    "name_local": "Bəylərbəyi Sarayı \\ Lahıc",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.8462488,
+      "lng": 48.3822226
+    },
+    "osm_id": "node/7774166027",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "castle_type": "manor",
+        "historic": "castle",
+        "name": "Bəylərbəyi Sarayı \\ Lahıc"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Restoran \\ Lahıc",
+    "name_local": "Restoran \\ Lahıc",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.8492871,
+      "lng": 48.3865477
+    },
+    "osm_id": "node/7774166030",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Restoran \\ Lahıc"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qaya 1",
+    "name_local": "Qaya 1",
+    "poi_type": "viewpoint",
+    "coordinates": {
+      "lat": 40.8313349,
+      "lng": 48.3715435
+    },
+    "osm_id": "node/10910900514",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Qaya 1",
+        "tourism": "viewpoint"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qaya 2",
+    "name_local": "Qaya 2",
+    "poi_type": "viewpoint",
+    "coordinates": {
+      "lat": 40.8338027,
+      "lng": 48.3731139
+    },
+    "osm_id": "node/10910900517",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Qaya 2",
+        "tourism": "viewpoint"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Lahic Tarix musey",
+    "name_local": "Lahic Tarix musey",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8455725,
+      "lng": 48.3808593
+    },
+    "osm_id": "node/12914085501",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Lahic Tarix musey",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "National Dishes of Lahıc",
+    "name_local": "National Dishes of Lahıc",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.8463681,
+      "lng": 48.3816715
+    },
+    "osm_id": "node/13094338402",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "National Dishes of Lahıc"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan"
+  }
+]

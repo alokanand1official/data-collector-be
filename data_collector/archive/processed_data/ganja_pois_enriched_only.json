@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Nizami Gandjevi Mausoleum",
+    "name_local": "Nizami Gəncəvinin məğbərəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6855104,
+      "lng": 46.4327288
+    },
+    "osm_id": "node/2313008264",
+    "description": "Step into the tranquil surroundings of the Nizami Ganjavi Mausoleum in Ganja, Azerbaijan, where the final resting place of this 12th-century poet and philosopher awaits. This stunning memorial is a testament to the region's rich cultural heritage, honoring the legacy of one of its most revered literary figures.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "poet_memorial",
+        "name": "Nizami Gəncəvinin məğbərəsi",
+        "name:az": "Nizami Gəncəvinin məğbərəsi",
+        "name:en": "Nizami Gandjevi Mausoleum",
+        "name:ru": "Мавзолей Низами Гянджеви"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Nizami Ganjavi Statue",
+    "name_local": "Nizami Gencevi Heykeli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6795437,
+      "lng": 46.3688574
+    },
+    "osm_id": "node/4346173689",
+    "description": "Standing tall in the heart of Ganja, Azerbaijan's stunning Nizami Ganjavi Statue is a poignant tribute to the city's most celebrated son - the renowned poet and philosopher. This majestic monument offers a glimpse into Ganja's rich cultural heritage and serves as a symbol of pride for the people of this historic city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Nizami Gencevi Heykeli",
+        "name:en": "Nizami Ganjavi Statue",
+        "name:tr": "Nizami Gencevi Heykeli"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Dayirman circle",
+    "name_local": "Dəyirman dairəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6974922,
+      "lng": 46.3732977
+    },
+    "osm_id": "node/7149822012",
+    "description": "Discover the ancient charm of Azerbaijan at Dayirman Circle, a historic monument in the heart of Ganja, where centuries-old traditions and stunning architecture come together to create an unforgettable experience. Step into this captivating circle, steeped in history and intrigue, and immerse yourself in the rich heritage of this enchanting city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Dəyirman dairəsi",
+        "name:en": "Dayirman circle",
+        "name:ru": "Круг \"Даирман\"",
+        "source": "Bing Aerial Image"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 5,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Museum of History",
+    "name_local": "Tarixşünaslıq Muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.680504,
+      "lng": 46.3580709
+    },
+    "osm_id": "node/4308707691",
+    "description": "Step into the rich past of Azerbaijan at the Museum of History in Ganja, where ancient artifacts and exhibits reveal the secrets of a storied city that's been a crossroads of cultures for centuries. From archaeological treasures to historic memorabilia, this museum offers a fascinating glimpse into the region's complex and captivating history.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Mustafa Kemal Atatürk",
+        "name": "Tarixşünaslıq Muzeyi",
+        "name:az": "Tarixşünaslıq Muzeyi",
+        "name:en": "Museum of History",
+        "name:es": "Museo de Historia",
+        "name:pl": "Muzeum Historyczne",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 65,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Alexander Nevski Church",
+    "name_local": "Aleksandr Nevski kilsəsi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 40.6792805,
+      "lng": 46.3564581
+    },
+    "osm_id": "node/4820676827",
+    "description": "Here's a short and inviting travel description for the Alexander Nevski Church:\n\nStep into the stunning Alexander Nevski Church in Ganja, Azerbaijan, where stunning architecture and rich history blend together to create an unforgettable experience. This breathtaking Christian temple is a must-visit attraction that will transport you to a world of beauty and spirituality.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Gəncə",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "russian_orthodox",
+        "historic": "yes",
+        "name": "Aleksandr Nevski kilsəsi",
+        "name:az": "Aleksandr Nevski kilsəsi",
+        "name:en": "Alexander Nevski Church",
+        "name:pl": "Cerkiew św. Aleksandra Newskiego",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1424921",
+        "wikimedia_commons": "Category:Alexander Nevsky church in Gəncə",
+        "wikipedia": "az:Aleksandr Nevski kilsəsi (Gəncə)"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 80
+    }
+  },
+  {
+    "name": "Məhəmməd Fizulinin heykəli",
+    "name_local": "Məhəmməd Fizulinin heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6875565,
+      "lng": 46.3855003
+    },
+    "osm_id": "node/2081894222",
+    "description": "Visit the poignant Məhəmməd Fizuli Monument in Ganja, a tribute to one of Azerbaijan's greatest poets and thinkers. Standing as a symbol of the city's rich literary heritage, this memorial is a must-see for history buffs and literature lovers alike.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Məhəmməd Fizulinin heykəli",
+        "name:az": "Məhəmməd Fizulinin heykəli"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 5,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "Heydər Əliyev Heykəli",
+    "name_local": "Heydər Əliyev Heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6802996,
+      "lng": 46.3600088
+    },
+    "osm_id": "node/2386937487",
+    "description": "Visit the majestic Heydar Aliyev Memorial in Ganja, a stunning tribute to the city's rich history and cultural heritage. Standing tall against the backdrop of Azerbaijan's picturesque landscape, this iconic monument is a must-see for anyone interested in exploring the country's storied past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Heydər Əliyev Heykəli"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Bayraq meydani",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.678204,
+      "lng": 46.369828
+    },
+    "osm_id": "node/4395333991",
+    "description": "Here is a short, inviting travel description:\n\nStep into the storied past of Azerbaijan at Bayraq meydani in Ganja, where history meets elegance amidst this stunning monument. Surrounded by the city's rich heritage, this iconic landmark beckons you to discover its secrets and immerse yourself in the region's fascinating story.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name:en": "Bayraq meydani"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "The capital of The Youth",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6761167,
+      "lng": 46.3740696
+    },
+    "osm_id": "node/6600683290",
+    "description": "Step into the vibrant heart of Azerbaijan in Ganja, the capital of youth, where ancient history meets modern charm. Visit the stunning monument that stands as a testament to the city's rich past, a must-see for any traveler seeking a taste of tradition and culture.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name:en": "The capital of The Youth"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "20 Yanvar abidəsi",
+    "name_local": "20 Yanvar abidəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6843827,
+      "lng": 46.3887422
+    },
+    "osm_id": "node/11083609919",
+    "description": "Visit the poignant 20 January Memorial in Ganja, Azerbaijan, a historic tribute to the victims of the Black January tragedy. Standing as a powerful symbol of remembrance and resilience, this memorial is a must-see for anyone exploring the city's rich history.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "20 Yanvar abidəsi"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Istiglal Park",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6418498,
+      "lng": 46.3409246
+    },
+    "osm_id": "node/6600725385",
+    "description": "Here is a short and inviting travel description:\n\nEscape to the serene beauty of Istiglal Park in Ganja, where the somber elegance of this historic memorial park pays tribute to Azerbaijan's rich past. Stroll through the tranquil gardens and reflect on the significance of this revered site.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "Istiglal Park"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 30,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Göygöl şəhəri - Giriş",
+    "name_local": "Göygöl şəhəri - Giriş",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6030136,
+      "lng": 46.3304776
+    },
+    "osm_id": "node/8538244113",
+    "description": "Here's a short and inviting travel description:\n\nDiscover the serene beauty of Göygöl şəhəri, a historic gem nestled in the heart of Ganja, where ancient monuments tell stories of a bygone era. As you wander through this enchanting city, be transported to a world of timeless charm and tranquility.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Göygöl şəhəri - Giriş"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  }
+]

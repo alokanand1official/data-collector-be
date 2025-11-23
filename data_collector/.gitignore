@@ -1,0 +1,39 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data directories (keep structure, ignore contents)
+raw_data/*
+!raw_data/.gitkeep
+processed_data/*
+!processed_data/.gitkeep
+output/*
+!output/.gitkeep
+
+# Logs
+logs/*.log
+*.log
+
+# Temporary files
+sample_*.json
+enrichment.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/

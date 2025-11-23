@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "Giper Çay Evi",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.324953,
+      "lng": 48.5596863
+    },
+    "osm_id": "node/4454963290",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Giper Çay Evi",
+        "opening_hours": "24/7"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "My Villa",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3109141,
+      "lng": 48.5975446
+    },
+    "osm_id": "node/4941948821",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "castle",
+        "name:en": "My Villa"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Məryəm şadlıq sarayı",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3159509,
+      "lng": 48.5922122
+    },
+    "osm_id": "node/6799624991",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name:en": "Məryəm şadlıq sarayı"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Genocide Memorial Complex;Quba 1918 Genocide Memorial Complex",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3621089,
+      "lng": 48.4930104
+    },
+    "osm_id": "node/4504765689",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "Quba Genocide Memorial Complex;Quba 1918 Genocide Memorial Complex"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "TERRAS",
+    "name_local": "Terras Hotel Restoran",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3574199,
+      "lng": 48.4841577
+    },
+    "osm_id": "node/5871104185",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Terras Hotel Restoran",
+        "name:en": "TERRAS",
+        "name:ru": "Отель, ресторан,караоке",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Dədə Qorqut",
+    "name_local": "Dədə Qorqut",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3614567,
+      "lng": 48.5124984
+    },
+    "osm_id": "node/3289870862",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Dədə Qorqut"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Mahir Restoran \\ Quba",
+    "name_local": "Mahir Restoran \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3632065,
+      "lng": 48.5193415
+    },
+    "osm_id": "node/4559114490",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Mahir Restoran \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Oscar Hotel",
+    "name_local": "Oscar Hotel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3621149,
+      "lng": 48.526757
+    },
+    "osm_id": "node/5071551125",
+    "description": "Günstiges Hotel 40 AZN/DZ. Etwas laut, direkt an Hauptstraße",
+    "metadata": {
+      "osm_tags": {
+        "description": "Günstiges Hotel 40 AZN/DZ. Etwas laut, direkt an Hauptstraße",
+        "name": "Oscar Hotel",
+        "name:en": "Oscar Hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Hay-Küy",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3638802,
+      "lng": 48.5399828
+    },
+    "osm_id": "node/5370845822",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:postcode": "4000",
+        "addr:street": "prospekt Heydar Aliev",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Hay-Küy",
+        "name:ru": "Hay-Küy",
+        "phone": "+994557030030"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe Nikat (Teahouse)",
+    "name_local": "Kafe Nikat (Teahouse)",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3620534,
+      "lng": 48.5055115
+    },
+    "osm_id": "node/5540929076",
+    "description": "Teestube",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "description": "Teestube",
+        "name": "Kafe Nikat (Teahouse)"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Lucky cafe & restaurant \\ Quba",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3626842,
+      "lng": 48.5228599
+    },
+    "osm_id": "node/5640622421",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Heyder.Eliyev prospekti",
+        "amenity": "restaurant",
+        "cuisine": "arab;american;coffee_shop;grill;ice_cream;italian_pizza;kebab;pizza",
+        "internet_access": "wlan",
+        "name:en": "Lucky cafe & restaurant \\ Quba",
+        "opening_hours": "24/7",
+        "phone": "+994507770609"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "II war monument 1941-1945",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3667517,
+      "lng": 48.5050955
+    },
+    "osm_id": "node/5871094895",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "II war monument 1941-1945",
+        "name:ru": "1941-1945"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Praga",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3632962,
+      "lng": 48.5359566
+    },
+    "osm_id": "node/5871095096",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name:en": "Praga"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Biklam dizaiyn \\ Quba",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3621784,
+      "lng": 48.5023162
+    },
+    "osm_id": "node/5871104087",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Biklam dizaiyn \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "İsmət Əmi",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3638879,
+      "lng": 48.5051415
+    },
+    "osm_id": "node/5871104090",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "İsmət Əmi"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Diyar",
+    "name_local": "Diyar kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3650899,
+      "lng": 48.5046019
+    },
+    "osm_id": "node/5871104091",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Diyar kafe",
+        "name:en": "Diyar"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Mikva Sloboda",
+    "name_local": "Mikva Sloboda",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3691362,
+      "lng": 48.5094489
+    },
+    "osm_id": "node/5871104092",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "building": "bath",
+        "name": "Mikva Sloboda",
+        "name:pl": "Mykwa",
+        "name:ru": "Миква (святое место иудеев)",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Mikva Qurşum",
+    "name_local": "Mikva Qurşum",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3689129,
+      "lng": 48.509036
+    },
+    "osm_id": "node/5871104187",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Mikva Qurşum",
+        "name:pl": "Mykwa",
+        "name:ru": "Миква (купель) раби Гуршума (святое место иудеев)",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qirmizi Qasaba",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3706006,
+      "lng": 48.5146901
+    },
+    "osm_id": "node/5913499489",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Qirmizi Qasaba",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Haji Jafar Mosque",
+    "name_local": "Hacı Cəfər Məscidi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.362835,
+      "lng": 48.5096732
+    },
+    "osm_id": "node/5933384087",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "addr:street": "Ərdəbil",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "historic": "yes",
+        "name": "Hacı Cəfər Məscidi",
+        "name:az": "Hacı Cəfər Məscidi",
+        "name:en": "Haji Jafar Mosque",
+        "religion": "muslim",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Juma Mosque",
+    "name_local": "Cümə Məscidi \\ Quba",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.363195,
+      "lng": 48.5121203
+    },
+    "osm_id": "node/5933384088",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "historic": "yes",
+        "name": "Cümə Məscidi \\ Quba",
+        "name:az": "Cümə Məscidi",
+        "name:en": "Juma Mosque",
+        "religion": "muslim",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba History Museum",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3639384,
+      "lng": 48.5126273
+    },
+    "osm_id": "node/5933384506",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Quba History Museum",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Xinaliq Motel \\ Quba",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3611151,
+      "lng": 48.5284681
+    },
+    "osm_id": "node/5990508687",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Xinaliq Motel \\ Quba",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Old doomed Turkish bathroom - Hundur Gumbazli High Domed Hamam",
+    "name_local": "Hündür Kümbəzli Hamam \\ Quba",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3623669,
+      "lng": 48.5074648
+    },
+    "osm_id": "node/5995668088",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "amenity": "public_bath",
+        "historic": "ruins",
+        "name": "Hündür Kümbəzli Hamam \\ Quba",
+        "name:az": "Hündür Kümbəzli Hamam \\ Quba",
+        "name:en": "Old doomed Turkish bathroom - Hundur Gumbazli High Domed Hamam",
+        "phone": "+994702441154;+994702046400",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Gilyaki Synagogue",
+    "name_local": null,
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.3666213,
+      "lng": 48.5096061
+    },
+    "osm_id": "node/5995679785",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "addr:street": "Isaak Xanukov",
+        "alt_name": "Gilaki Synagogue",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name:en": "Gilyaki Synagogue",
+        "name:pl": "Synagoga w Quba",
+        "religion": "jewish",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Jewish Museum",
+    "name_local": "Dağ yəhudilərin muzeyi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.3674368,
+      "lng": 48.5097155
+    },
+    "osm_id": "node/5995679786",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "historic": "yes",
+        "name": "Dağ yəhudilərin muzeyi",
+        "name:en": "Jewish Museum",
+        "name:pl": "Stara synagoga w Quba",
+        "religion": "jewish",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "History and Ethnography Museum",
+    "name_local": "Quba Tarix və Etnoqrafiya muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3625587,
+      "lng": 48.5056999
+    },
+    "osm_id": "node/5995679787",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "name": "Quba Tarix və Etnoqrafiya muzeyi",
+        "name:en": "History and Ethnography Museum",
+        "name:pl": "Muzeum Historyczno-Etnograficzne",
+        "opening_hours": "Tu-Sa 10:00-13:00, 14:00-18:00",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Alma restoranı (Quba)",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3672981,
+      "lng": 48.5214247
+    },
+    "osm_id": "node/6048682991",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "223-cü atıcı diviziya küçəsi",
+        "amenity": "restaurant",
+        "cuisine": "regional;tea;persian;asian;beef_bowl;chicken;diner;kebab",
+        "name:en": "Alma restoranı (Quba)",
+        "phone": "+994515544000"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Cinar",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3600127,
+      "lng": 48.5071122
+    },
+    "osm_id": "node/6639751909",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name:en": "Cinar"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Cinar",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3624626,
+      "lng": 48.5160092
+    },
+    "osm_id": "node/6639760285",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name:en": "Cinar"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ləzzət Shisa",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3660001,
+      "lng": 48.5221556
+    },
+    "osm_id": "node/7020247585",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "internet_access": "wlan",
+        "name:en": "Ləzzət Shisa",
+        "name:tr": "Lezzet Nargile",
+        "opening_hours": "Mo-Su 09:00-03:00",
+        "phone": "0233351200"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Pharmacy at the Synagogue",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3671824,
+      "lng": 48.5065347
+    },
+    "osm_id": "node/7281820786",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Pharmacy at the Synagogue",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Ritual Bath (Mikveh)",
+    "name_local": "Mikve Ritual Hamam",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3694433,
+      "lng": 48.5091869
+    },
+    "osm_id": "node/7281827085",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Mikve Ritual Hamam",
+        "name:en": "Ritual Bath (Mikveh)",
+        "name:ru": "Ритуальная Баня (Микве)",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Mübarək Şadlıq Sarayı",
+    "name_local": "Mübarək Şadlıq Sarayı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3650616,
+      "lng": 48.5290253
+    },
+    "osm_id": "node/11067570729",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Mübarək Şadlıq Sarayı"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Napoleon Kafe \\ Quba",
+    "name_local": "Napoleon Kafe \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.364975,
+      "lng": 48.5282421
+    },
+    "osm_id": "node/11067570736",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Napoleon Kafe \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Bazarı",
+    "name_local": "Quba Bazarı",
+    "poi_type": "market",
+    "coordinates": {
+      "lat": 41.3613615,
+      "lng": 48.5283279
+    },
+    "osm_id": "node/11067570850",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "marketplace",
+        "name": "Quba Bazarı"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Üç Gözəl Şadlıq Sarayı \\ Quba",
+    "name_local": "Üç Gözəl Şadlıq Sarayı \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3630284,
+      "lng": 48.5490748
+    },
+    "osm_id": "node/11086803012",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Üç Gözəl Şadlıq Sarayı \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Buta Restoran \\ Quba",
+    "name_local": "Buta Restoran \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3654652,
+      "lng": 48.5221173
+    },
+    "osm_id": "node/11087006102",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Buta Restoran \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Village Hotel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3569168,
+      "lng": 48.5546619
+    },
+    "osm_id": "node/5287702635",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Quba Village Hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Bayraq Muzeyi \\ Quba",
+    "name_local": "Bayraq Muzeyi \\ Quba",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3650132,
+      "lng": 48.5517207
+    },
+    "osm_id": "node/5990491293",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Bayraq Muzeyi \\ Quba",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Bayraq \\ Quba",
+    "name_local": "Bayraq \\ Quba",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3646026,
+      "lng": 48.5519689
+    },
+    "osm_id": "node/7435542720",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "man_made": "flagpole",
+        "name": "Bayraq \\ Quba",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Giriş",
+    "name_local": "Quba Giriş",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3642235,
+      "lng": 48.5686185
+    },
+    "osm_id": "node/9509057282",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Quba Giriş",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Heydər Əliyev Mərkəzi \\ Quba",
+    "name_local": "Heydər Əliyev Mərkəzi \\ Quba",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3653595,
+      "lng": 48.5535568
+    },
+    "osm_id": "node/11086803141",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "townhall",
+        "name": "Heydər Əliyev Mərkəzi \\ Quba",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Heydər Əliyev heyləli \\ Quba",
+    "name_local": "Heydər Əliyev heyləli \\ Quba",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3646947,
+      "lng": 48.5536492
+    },
+    "osm_id": "node/11086803219",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Heydər Əliyev heyləli \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Center Restoran \\ Quba",
+    "name_local": "Quba Center Restoran \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3643026,
+      "lng": 48.5591599
+    },
+    "osm_id": "node/11086803260",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Quba Center Restoran \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Fayto Kafe \\ Quba",
+    "name_local": "Fayto Kafe \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3644033,
+      "lng": 48.5611635
+    },
+    "osm_id": "node/11086803264",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Fayto Kafe \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Otel Olimpiya \\ Quba",
+    "name_local": "Otel Olimpiya \\ Quba",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3621708,
+      "lng": 48.5654336
+    },
+    "osm_id": "node/11086803287",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Otel Olimpiya \\ Quba",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Magic Kitchen Restoran \\ Quba",
+    "name_local": "Magic Kitchen Restoran \\ Quba",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 41.3634068,
+      "lng": 48.5678798
+    },
+    "osm_id": "node/11086803289",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Magic Kitchen Restoran \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Aynur Hotel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.347146,
+      "lng": 48.4532154
+    },
+    "osm_id": "node/5071559821",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Aynur Hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Palace Hotel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3318055,
+      "lng": 48.4989213
+    },
+    "osm_id": "node/8831621917",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Quba Palace Hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Cənnət Bağı Otel",
+    "name_local": "Cənnət Bağı Otel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3089035,
+      "lng": 48.5394535
+    },
+    "osm_id": "node/2786049207",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Cənnət Bağı Otel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Quba Rixos Otel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 41.3333207,
+      "lng": 48.5005334
+    },
+    "osm_id": "node/4783147724",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "internet_access": "wlan",
+        "name:en": "Quba Rixos Otel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan"
+  }
+]

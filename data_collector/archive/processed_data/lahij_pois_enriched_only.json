@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Gurbulaq caravanserai 15th c. \\ Ərəkit",
+    "name_local": "Gurbulaq Karvansara 15-ci əsr \\ Ərəkit",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8514793,
+      "lng": 48.3889336
+    },
+    "osm_id": "node/7774166035",
+    "description": "Immerse yourself in the rich history of Azerbaijan's medieval Silk Road at Gurbulaq Caravanserai, a 15th-century oasis in the picturesque town of Lahij. This stunning museum offers a glimpse into the region's fascinating past, with beautifully preserved architecture and artifacts waiting to be discovered.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Gurbulaq Karvansara 15-ci əsr \\ Ərəkit",
+        "name:en": "Gurbulaq caravanserai 15th c. \\ Ərəkit",
+        "name:ru": "Каравансарай Гюрбулаг 15-й век \\ Арагит",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan",
+    "priority_score": 65,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 5,
+      "culinary_enthusiast": 10,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Bəylərbəyi Sarayı \\ Lahıc",
+    "name_local": "Bəylərbəyi Sarayı \\ Lahıc",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.8462488,
+      "lng": 48.3822226
+    },
+    "osm_id": "node/7774166027",
+    "description": "Discover the charm of Azerbaijan's ancient past at Bəylərbəyi Sarayı, a stunning 13th-century castle in the picturesque town of Lahij. This beautifully preserved historic site offers breathtaking views and a glimpse into the region's rich cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "castle_type": "manor",
+        "historic": "castle",
+        "name": "Bəylərbəyi Sarayı \\ Lahıc"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 0
+    }
+  },
+  {
+    "name": "Tarix muzeyi \\ Ərəkit",
+    "name_local": "Tarix muzeyi \\ Ərəkit",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8510512,
+      "lng": 48.3886841
+    },
+    "osm_id": "node/7774166034",
+    "description": "Here is a short and inviting travel description:\n\nDiscover the rich history of Azerbaijan at the Tarix Muzeyi in Lahij, a charming town nestled in the mountains. Step into this fascinating museum to uncover the secrets of the region's past and be enchanted by the stories of its people.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Tarix muzeyi \\ Ərəkit",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Lahıc diyarşünaslıq muzeyi",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8453611,
+      "lng": 48.3832538
+    },
+    "osm_id": "node/4382535791",
+    "description": "Here is a short and inviting travel description:\n\nDiscover the rich history of Lahij at the Lahıc diyarşünaslıq muzeyi, a fascinating museum nestled in the heart of this ancient city, showcasing the region's unique cultural heritage. Step into the world of traditional Azerbaijan craftsmanship, art, and traditions, and experience the warm hospitality that awaits you in this enchanting destination.",
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Lahıc diyarşünaslıq muzeyi",
+        "name:ja": "博物館",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Lahic Tarix musey",
+    "name_local": "Lahic Tarix musey",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.8455725,
+      "lng": 48.3808593
+    },
+    "osm_id": "node/12914085501",
+    "description": "Step into the charming village of Lahij and discover the rich history of Azerbaijan at the Lahic Tarix Musey, a unique museum showcasing ancient artifacts and traditional crafts that will transport you to a bygone era. Explore the quaint streets and exhibits of this hidden gem, where culture and heritage come alive.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Lahic Tarix musey",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Lahij",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 50
+    }
+  }
+]

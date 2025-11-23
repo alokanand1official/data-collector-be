@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Haldiram",
+    "name_local": "Haldiram",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 28.4012573,
+      "lng": 76.9886452
+    },
+    "osm_id": "node/520984742",
+    "description": "Here's a short and inviting travel description:\n\nExperience the authentic flavors of India at Haldiram, a beloved Delhi institution serving up delicious traditional cuisine in the heart of the city. From savory street food to rich desserts, this iconic eatery is a must-visit for any traveler looking to taste the real Delhi.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Haldiram"
+      }
+    },
+    "city_name": "Delhi",
+    "country_code": "India",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Pizza Hut",
+    "name_local": "Pizza Hut",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 28.4036539,
+      "lng": 76.9477117
+    },
+    "osm_id": "node/7011221855",
+    "description": "Here's a short and inviting travel description:\n\nIndulge in the flavors of Italy at Pizza Hut in Delhi, where every bite is a delicious blend of cheese, sauce, and crispy crust. Whether you're looking for a quick lunch or a satisfying dinner, this popular restaurant serves up hot, freshly baked pizzas that are sure to satisfy your cravings.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    "city_name": "Delhi",
+    "country_code": "India",
+    "persona_scores": {
+      "cultural_explorer": 0,
+      "adventure_seeker": 2,
+      "beach_lover": 10,
+      "luxury_traveler": 8,
+      "culinary_enthusiast": 92,
+      "wellness_retreater": 5
+    }
+  },
+  {
+    "name": "Costa",
+    "name_local": "Costa",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 28.4197953,
+      "lng": 77.0382615
+    },
+    "osm_id": "node/10593508500",
+    "description": "Here is a short and inviting travel description:\n\nEscape to the charming Costa in Delhi, where the aroma of freshly brewed coffee fills the air and the vibrant atmosphere of a bustling café beckons you to stay awhile. Indulge in a cup of your favorite brew at this cozy coffee shop, nestled in the heart of the city.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "cuisine": "coffee_shop",
+        "name": "Costa",
+        "takeaway": "yes"
+      }
+    },
+    "city_name": "Delhi",
+    "country_code": "India",
+    "persona_scores": {
+      "cultural_explorer": 20,
+      "adventure_seeker": 0,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Thaï Garam",
+    "name_local": "Thaï Garam",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 28.4185419,
+      "lng": 77.0385735
+    },
+    "osm_id": "node/10593537363",
+    "description": "Here's a short and inviting travel description:\n\nEscape to the flavors of Thailand in the heart of Delhi at Thaï Garam, where the aromatic scents of street food meet the vibrant energy of India. Savor authentic Thai dishes amidst the bustling streets of this cosmopolitan city.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Thaï Garam"
+      }
+    },
+    "city_name": "Delhi",
+    "country_code": "India",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 95,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Loving Hut - The Vegan Paradise",
+    "name_local": "Loving Hut - The Vegan Paradise",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 28.4294916,
+      "lng": 77.0360492
+    },
+    "osm_id": "node/10870495962",
+    "description": "All vegan restaurant",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Shop No. 7, near Hill Stone Market, near Subhash Chowk, Nambardar Market, Islampur Village, Sector 38, Gurugram, Haryana 122018",
+        "amenity": "restaurant",
+        "description": "All vegan restaurant",
+        "name": "Loving Hut - The Vegan Paradise",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "phone": "09872160699"
+      }
+    },
+    "city_name": "Delhi",
+    "country_code": "India",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 60
+    }
+  }
+]

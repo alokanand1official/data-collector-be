@@ -1,0 +1,3430 @@
+[
+  {
+    "name": "The National History Museum of Azerbaijan",
+    "name_local": "Milli Azərbaycan Tarixi Muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3693478,
+      "lng": 49.8400713
+    },
+    "osm_id": "node/4618962458",
+    "description": "Step into the rich heritage of Azerbaijan at the National History Museum of Baku, where ancient artifacts and exhibits bring to life the country's fascinating 8,000-year history. From prehistoric relics to medieval treasures, immerse yourself in the vibrant culture and traditions that make this museum a must-visit destination.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Bakı",
+        "addr:housenumber": "4",
+        "addr:street": "Zeynalabdin Tağıyev küçəsi",
+        "name": "Milli Azərbaycan Tarixi Muzeyi",
+        "name:en": "The National History Museum of Azerbaijan",
+        "name:pl": "Muzeum Historii Azerbejdżanu",
+        "name:ru": "Национальный музей истории Азербайджана",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "phone": "+994124932387",
+        "tourism": "museum",
+        "website": "https://azhistorymuseum.gov.az/",
+        "wikidata": "Q2664428",
+        "wikimedia_commons": "Category:National Museum of History of Azerbaijan",
+        "wikipedia": "en:National Museum of History of Azerbaijan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 90,
+    "priority_tier": "essential",
+    "enrichment_priority": 1,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Statue of Hazi Aslanov (Baku, 1949)",
+    "name_local": "Həzi Aslanov heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3613967,
+      "lng": 49.8244244
+    },
+    "osm_id": "node/1809771164",
+    "description": "Stand in tribute to Azerbaijan's heroism at the poignant Statue of Hazi Aslanov, a moving memorial in the heart of Baku that honors the country's brave resistance fighters. Located on the site where Hazi led a daring assault against Soviet forces in 1949, this historic landmark is a powerful reminder of Azerbaijan's rich history and unwavering spirit.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "atm",
+        "brand": "ABB",
+        "brand:wikidata": "Q4288376",
+        "contact:email": "info@abb-bank.az",
+        "contact:phone": "937",
+        "contact:website": "https://abb-bank.az",
+        "currency:AZN": "yes",
+        "historic": "memorial",
+        "language:az": "yes",
+        "language:en": "yes",
+        "name": "Həzi Aslanov heykəli",
+        "name:az": "Həzi Aslanov heykəli",
+        "name:en": "Statue of Hazi Aslanov (Baku, 1949)",
+        "name:ru": "скульптура Ази Асланова",
+        "opening_hours": "24/7",
+        "operator": "ABB",
+        "operator:wikidata": "Q4288376",
+        "wikipedia": "az:Həzi Aslanovun heykəli (Bakı, 1949)",
+        "wikipedia:az": "az:Həzi Aslanovun heykəli (Bakı, 1949)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 81,
+    "priority_tier": "essential",
+    "enrichment_priority": 1,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Memorial House-Museum of Haji Zeynalabdin Taghiyev",
+    "name_local": "Hacı Zeynal Abdin Tağıyevin ev muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3694389,
+      "lng": 49.8399693
+    },
+    "osm_id": "node/4618962459",
+    "description": "Step into the historic heart of Azerbaijan in Baku's esteemed Memorial House-Museum of Haji Zeynalabdin Taghiyev, a magnificent tribute to the country's philanthropic heritage. This beautifully preserved museum offers a glimpse into the life and legacy of its namesake, showcasing an impressive collection of artifacts, artwork, and furnishings that reflect the culture and traditions of Azerbaijan.",
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Zeynalabdin Tağıyev küçəsi",
+        "name": "Hacı Zeynal Abdin Tağıyevin ev muzeyi",
+        "name:az": "Hacı Zeynal Abdin Tağıyevin ev muzeyi",
+        "name:en": "Memorial House-Museum of Haji Zeynalabdin Taghiyev",
+        "name:ru": "Дом музей Гаджи Зейналабдин Тагиева",
+        "opening_hours": "Mo-Sa 11:00-18:00",
+        "phone": "+994124932387",
+        "tourism": "museum",
+        "website": "http://www.azhistorymuseum.az"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 78,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Azerbaijan National Education Museum",
+    "name_local": "Xalq Təhsili Muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3634899,
+      "lng": 49.8312734
+    },
+    "osm_id": "node/3031326885",
+    "description": "Step into the heart of Azerbaijani culture at the Azerbaijan National Education Museum in Baku, where interactive exhibits and historic artifacts come together to reveal the country's rich educational heritage. Discover the evolution of education in this vibrant city, from ancient traditions to modern innovations.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Xalq Təhsili Muzeyi",
+        "name:az": "Xalq Təhsili Muzeyi",
+        "name:en": "Azerbaijan National Education Museum",
+        "name:fa": "موزه ملی آموزش و پرورش آذربایجان",
+        "name:ru": "Музей народного образования",
+        "tourism": "museum",
+        "wikidata": "Q41504433",
+        "wikipedia": "az:Xalq Təhsili Muzeyi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 77,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Azerbaijan National Museum of Art",
+    "name_local": "Azərbaycan Milli İncəsənət Müzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3632725,
+      "lng": 49.8318442
+    },
+    "osm_id": "node/3031326886",
+    "description": "Immerse yourself in the vibrant cultural heritage of Azerbaijan at the stunning National Museum of Art in Baku, where ancient traditions meet modern masterpieces. With an impressive collection of Azerbaijani art spanning centuries, this museum is a must-visit for anyone exploring the city's rich artistic landscape.",
+    "metadata": {
+      "osm_tags": {
+        "fee": "yes",
+        "name": "Azərbaycan Milli İncəsənət Müzeyi",
+        "name:az": "İncəsənət Muzeyi R.Mustafayev",
+        "name:en": "Azerbaijan National Museum of Art",
+        "name:fa": "موزه هنر ر. مصطفی اف",
+        "name:ru": "Музей искусств Р.Мустафаева",
+        "tourism": "museum",
+        "wikidata": "Q2559128",
+        "wikimedia_commons": "Category:National Art Museum of Azerbaijan",
+        "wikipedia": "az:Azərbaycan Milli İncəsənət Muzeyi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 77,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 20
+    }
+  },
+  {
+    "name": "Heydar Aliyev Museum",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3958547,
+      "lng": 49.8673174
+    },
+    "osm_id": "node/11601803804",
+    "description": "Here's a short and inviting travel description:\n\nStep into the rich history of Azerbaijan at the Heydar Aliyev Museum in vibrant Baku, where you can explore the life and legacy of this remarkable leader through interactive exhibits and stunning displays.",
+    "metadata": {
+      "osm_tags": {
+        "museum": "history;person",
+        "museum_type": "national",
+        "name:en": "Heydar Aliyev Museum",
+        "name:fa": "موزه حیدر علی‌اف",
+        "name:ru": "Музей Гейдара Алиева",
+        "opening_hours": "Tu-Fr 11:00-19:00, Sa-Su 11:00-18:00",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 75,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 0,
+      "beach_lover": 20,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Parachute tower",
+    "name_local": "Paraşüt Qülləsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3685653,
+      "lng": 49.8440045
+    },
+    "osm_id": "node/4720927490",
+    "description": "Step back in time to the era of Soviet grandeur at Baku's iconic Parachute Tower, a majestic historic landmark that once played a crucial role in Azerbaijani history. Today, this striking tower invites visitors to explore its storied past and take in breathtaking views of the city from its lofty heights.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Bakı",
+        "addr:street": "Neftçilər prospekti",
+        "height": "75",
+        "man_made": "tower",
+        "name": "Paraşüt Qülləsi",
+        "name:az": "Paraşüt Qülləsi",
+        "name:en": "Parachute tower",
+        "name:ru": "Парашютная вышка",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "tower:type": "parachute_tower",
+        "wikidata": "Q4345043",
+        "wikimedia_commons": "Category:Baku Parachute Tower",
+        "wikipedia": "ru:Парашютная вышка в Баку"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 75,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 20,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Gәmiçilik Muzeyi",
+    "name_local": "\"SURAXANI\" Ship Museum",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3373731,
+      "lng": 49.8420034
+    },
+    "osm_id": "node/8931310062",
+    "description": "Discover the unique history of Azerbaijan's ancient silk road at the Gəmiçilik Muzeyi in Baku, where traditional sailing vessels meet modern museum exhibits. Located on the city's scenic waterfront, this charming museum offers a glimpse into the country's rich maritime past and its significance in the region's trade heritage.",
+    "metadata": {
+      "osm_tags": {
+        "fee": "yes",
+        "name": "\"SURAXANI\" Ship Museum",
+        "name:en": "Gәmiçilik Muzeyi",
+        "name:tr": "Gәmiçilik Muzeyi",
+        "opening_hours": "We-Su 10:00-18:00",
+        "tourism": "museum",
+        "website": "https://surakhanishipmuseum.az/"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 75,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Statue of National Hero Albert Agarunov",
+    "name_local": "Albert Aqarunov heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4056792,
+      "lng": 49.8615304
+    },
+    "osm_id": "node/7966045451",
+    "description": "Visit the poignant Statue of National Hero Albert Agarunov in Baku, a powerful tribute to Azerbaijan's greatest defender. Standing tall in the heart of the city, this iconic memorial honors the bravery and sacrifice of a true national hero.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "material": "bronze",
+        "memorial": "statue",
+        "name": "Albert Aqarunov heykəli",
+        "name:en": "Statue of National Hero Albert Agarunov",
+        "name:ru": "Памятник Национальному герою Альберту Агарунову",
+        "subject:wikidata": "Q4056681"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 73,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Liberated Woman",
+    "name_local": "Azad Qadın",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3787761,
+      "lng": 49.8312985
+    },
+    "osm_id": "node/4540883889",
+    "description": "Azad edilmiş qadının abidə Abidə Şərq qadınlarının sosial qeyri-bərabərlikdən azad edilməsini əks etdirir. Çadranı özündən çıxaran gənc qadının fiquru şəklində ifa edilmişdir. Açıq 1960-cı ildə. Müəllif Heykəltəraş: F. əbdürəhmanov; memar: M. Useynov.",
+    "metadata": {
+      "osm_tags": {
+        "access": "yes",
+        "description": "Azad edilmiş qadının abidə Abidə Şərq qadınlarının sosial qeyri-bərabərlikdən azad edilməsini əks etdirir. Çadranı özündən çıxaran gənc qadının fiquru şəklində ifa edilmişdir. Açıq 1960-cı ildə. Müəllif Heykəltəraş: F. əbdürəhmanov; memar: M. Useynov.",
+        "historic": "monument",
+        "name": "Azad Qadın",
+        "name:en": "Liberated Woman",
+        "wikidata": "Q12836308",
+        "wikimedia_commons": "Category:Statue of a Liberated Woman",
+        "wikipedia": "az:Azad qadın (heykəl)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 73,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "YAY Gallery",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3660547,
+      "lng": 49.8325732
+    },
+    "osm_id": "node/6873283386",
+    "description": "Discover the vibrant culture of Azerbaijan at YAY Gallery in Baku, a premier contemporary art museum showcasing an incredible collection of local and international works. Step into this stunning space to experience the best of modern Azerbaijani art and enjoy the breathtaking views of the city from its unique setting.",
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Kiçik Qala küçəsi",
+        "email": "info@yaygallery.com",
+        "name:en": "YAY Gallery",
+        "name:ru": "Художественная галерея YAY",
+        "opening_hours": "Tu-Su 12:00-20:00",
+        "phone": "+994 12 505 23 23",
+        "tourism": "museum",
+        "website": "https://www.yaygallery.az"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 73,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 5,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 15,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Museum of miniature books",
+    "name_local": "Miniatür kitab muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3663731,
+      "lng": 49.8326143
+    },
+    "osm_id": "node/4427698089",
+    "description": "Step into the whimsical world of the Museum of Miniature Books in Baku, where you'll discover an enchanting collection of tiny tomes that will leave you spellbound. With its intricate details and miniature masterpieces, this charming museum is a must-visit for book lovers and travelers alike.",
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "67",
+        "fee": "no",
+        "name": "Miniatür kitab muzeyi",
+        "name:en": "Museum of miniature books",
+        "name:nl": "Miniatuurboekenmuseum",
+        "name:ru": "Музей миниатюрных книг",
+        "opening_hours": "Tu-We, Fr-Su 11:00-17:00",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q2559058",
+        "wikimedia_commons": "Category:Baku Museum of Miniature Books",
+        "wikipedia": "en:Baku Museum of Miniature Books"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 72,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 20,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Azim Azimzade Monument",
+    "name_local": "Azim Azimzade Monument",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3673922,
+      "lng": 49.8374575
+    },
+    "osm_id": "node/12965484683",
+    "description": "The original plan for the park and monument dates back to the late 1980s, but the project was not completed and inaugurated until March 2002. Initially, the monument was placed near the Heydar Aliyev Palace, but in 2011 it was relocated to Icherisheher.",
+    "metadata": {
+      "osm_tags": {
+        "artist": "Omar Eldarov",
+        "artist:wikipedia": "en:Omar Eldarov",
+        "artist_name": "Omar Eldarov",
+        "artwork_type": "statue",
+        "description": "The original plan for the park and monument dates back to the late 1980s, but the project was not completed and inaugurated until March 2002. Initially, the monument was placed near the Heydar Aliyev Palace, but in 2011 it was relocated to Icherisheher.",
+        "historic": "monument",
+        "name": "Azim Azimzade Monument",
+        "name:az": "Əzim Əzimzadə Abidəsi",
+        "name:en": "Azim Azimzade Monument",
+        "tourism": "artwork"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 70,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "George Enescu",
+    "name_local": "Corce Enesku",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4174811,
+      "lng": 49.8374872
+    },
+    "osm_id": "node/4271007489",
+    "description": "Here's a short and inviting travel description:\n\nStep into the poignant George Enescu Memorial in Baku, a tribute to the renowned Romanian composer who once called this city home. This historic monument stands as a reminder of the rich cultural heritage that shaped the city's vibrant music scene.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "memorial",
+        "name": "Corce Enesku",
+        "name:az": "Corce Enesku",
+        "name:en": "George Enescu",
+        "name:ro": "George Enescu",
+        "wikidata": "Q77177",
+        "wikimedia_commons": "Category:George Enescu",
+        "wikipedia": "en:George Enescu"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Khojaly Genocide Memorial",
+    "name_local": "Xocalı soyqırımı memorial",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3829933,
+      "lng": 49.8739326
+    },
+    "osm_id": "node/1907901128",
+    "description": "Here's a short and inviting travel description:\n\nVisit the poignant Khojaly Genocide Memorial in Baku, where you can pay tribute to the victims of one of Azerbaijan's darkest hours. This powerful monument stands as a reminder of the country's history and resilience, offering a profound glimpse into its complex past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Xocalı soyqırımı memorial",
+        "name:en": "Khojaly Genocide Memorial",
+        "name:ru": "Памятник жертвам Ходжалинской резни",
+        "wikidata": "Q13668692",
+        "wikipedia": "az:Bakıda Xocalı soyqırımı abidəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 5,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "Shah Ismail Khatai monument",
+    "name_local": "Şah İsmayıl Xətainin heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3817596,
+      "lng": 49.8636693
+    },
+    "osm_id": "node/1907901129",
+    "description": "Visit the poignant Shah Ismail Khatai Monument in Baku, a striking tribute to one of Azerbaijan's most revered poets and thinkers. This historic memorial stands as a testament to the city's rich cultural heritage, inviting you to reflect on the past and connect with its timeless beauty.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Şah İsmayıl Xətainin heykəli",
+        "name:az": "Şah İsmayıl Xətainin heykəli",
+        "name:en": "Shah Ismail Khatai monument",
+        "name:ru": "Памятник Шаху Исмаилу Хатаи",
+        "wikidata": "Q77848229",
+        "wikimedia_commons": "Category:Monument to Shah Ismail Khatai",
+        "wikipedia": "az:Şah İsmayıl Xətainin heykəli"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 5,
+      "culinary_enthusiast": 20,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Pushkin Monument",
+    "name_local": "Puşkin heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3751625,
+      "lng": 49.8548413
+    },
+    "osm_id": "node/3036597071",
+    "description": "Visit the majestic Pushkin Monument in Baku, Azerbaijan, where you can pay tribute to the Russian literary legend who was tragically killed in this very city. Standing proudly in a scenic park, this stunning monument serves as a poignant reminder of the country's rich cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "material": "granite",
+        "memorial": "statue",
+        "name": "Puşkin heykəli",
+        "name:az": "Puşkin heykəli",
+        "name:de": "Puschkin-Denkmal",
+        "name:en": "Pushkin Monument",
+        "name:ru": "Памятник Пушкину",
+        "wikidata": "Q7200",
+        "wikimedia_commons": "Category:Aleksandr Pushkin",
+        "wikipedia": "en:Alexander Pushkin"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Jafar Jabbarli",
+    "name_local": "Cəfər Cabbarlı",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3793256,
+      "lng": 49.8479175
+    },
+    "osm_id": "node/1908775935",
+    "description": "Here's a short and inviting travel description:\n\nStep back in time as you explore the ancient Jafar Jabbarli monument in Baku, where history and architecture blend seamlessly together. This stunning landmark is a must-visit for anyone seeking to uncover the secrets of Azerbaijan's rich past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Cəfər Cabbarlı",
+        "name:en": "Jafar Jabbarli",
+        "name:ru": "Джафар Джаббарлы",
+        "subject:wikidata": "Q25396001",
+        "wikidata": "Q25396001",
+        "wikimedia_commons": "Category:Cəfər Cabbarlının heykəli (Bakı)",
+        "wikipedia": "az:Cəfər Cabbarlının heykəli (Bakı, Cəfər Cabbarlı meydanı)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Monument to Richard Sorge",
+    "name_local": "Rixard Zorgenin abidəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3904535,
+      "lng": 49.8366076
+    },
+    "osm_id": "node/1976790537",
+    "description": "Visit the poignant Monument to Richard Sorge in Baku, Azerbaijan, a tribute to the German journalist who played a pivotal role in World War II. Stand in reverence at this historic memorial, which honors the bravery and sacrifice of one of history's most fascinating figures.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Rixard Zorgenin abidəsi",
+        "name:de": "Richard Sorge Denkmal",
+        "name:en": "Monument to Richard Sorge",
+        "name:ka": "რიხარდ ზორგეს ძეგლი",
+        "name:pl": "Pomnik Richarda Sorge",
+        "name:ru": "Памятник Рихарду Зорге",
+        "wikidata": "Q21635821",
+        "wikimedia_commons": "File:Rixard Zorgenin abidəsi (1).jpg",
+        "wikipedia": "ru:Памятник Рихарду Зорге (Баку)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Fuzuli statue",
+    "name_local": "Məhəmməd Füzuli heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3754589,
+      "lng": 49.8319542
+    },
+    "osm_id": "node/3034550354",
+    "description": "Here's a short and inviting travel description:\n\nVisit the poignant Fuzuli Statue in Baku, Azerbaijan, where you can pay tribute to the 18th-century poet and philosopher who inspired generations with his works. Standing tall in the heart of this historic city, Fuzuli's statue is a must-see for literature lovers and history enthusiasts alike.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Məhəmməd Füzuli heykəli",
+        "name:az": "Məhəmməd Füzuli heykəli",
+        "name:en": "Fuzuli statue",
+        "name:fa": "مجسمه محمد فضولی",
+        "wikidata": "Q178379",
+        "wikimedia_commons": "Category:Fuzuli",
+        "wikipedia": "en:Fuzuli (poet)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 55
+    }
+  },
+  {
+    "name": "Koroglu monument",
+    "name_local": "Koroğlu heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3917692,
+      "lng": 49.842515
+    },
+    "osm_id": "node/4023158894",
+    "description": "Visit the poignant Koroglu Monument in Baku, Azerbaijan, a tribute to the legendary bandit-hero who roamed the Caucasus region. Standing as a testament to his enduring legacy, this striking monument is a must-see for history buffs and travelers alike.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Koroğlu heykəli",
+        "name:en": "Koroglu monument",
+        "name:ru": "Памятник Кёр-оглы",
+        "wikidata": "Q12841045",
+        "wikimedia_commons": "Category:Statue of Koroglu",
+        "wikipedia": "az:Koroğlu heykəli (Bakı)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Taras Shevchenko Memorial",
+    "name_local": "Taras Şevçenkonun heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.389627,
+      "lng": 49.8423524
+    },
+    "osm_id": "node/4025673414",
+    "description": "Here's a short and inviting travel description:\n\nStep into the heart of Azerbaijan's cultural heritage at the Taras Shevchenko Memorial in Baku, a poignant tribute to the Ukrainian poet who found refuge in this city. This historic site offers a glimpse into the fascinating history of literature and politics that shaped the region.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Taras Şevçenkonun heykəli",
+        "name:az": "Taras Şevçenkonun heykəli",
+        "name:en": "Taras Shevchenko Memorial",
+        "name:ru": "Памятник Тарасу Шевченко",
+        "name:uk": "Пам'ятник Тарасові Шевченку",
+        "wikidata": "Q12138418",
+        "wikipedia": "az:Taras Şevçenkonun heykəli (Bakı)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Aliagha Vahid",
+    "name_local": "Əliağa Vahid",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3661071,
+      "lng": 49.8323433
+    },
+    "osm_id": "node/4479449795",
+    "description": "Step into the serene beauty of Aliagha Vahid, a poignant memorial in Baku that honors the city's rich history. This tranquil oasis offers a glimpse into Azerbaijan's past, making it a must-visit for those seeking a deeper understanding of the city's heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Əliağa Vahid",
+        "name:en": "Aliagha Vahid",
+        "wikidata": "Q65275518",
+        "wikimedia_commons": "Category:Monument of Aliagha Vahid",
+        "wikipedia": "az:Əliağa Vahidin heykəli"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Hajinski Home",
+    "name_local": "Hacınskinin Evi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.366274,
+      "lng": 49.8378377
+    },
+    "osm_id": "node/4723375792",
+    "description": "Step into the charming Hajinski Home in Baku, a beautifully restored historic mansion that offers a glimpse into Azerbaijan's rich past. With its elegant architecture and tranquil atmosphere, this 19th-century gem is a must-visit destination for anyone interested in exploring the city's hidden treasures.",
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "103",
+        "addr:street": "Neftçilər prospekti",
+        "building": "architecture",
+        "historic": "building",
+        "name": "Hacınskinin Evi",
+        "name:az": "Hacınskinin Evi",
+        "name:en": "Hajinski Home",
+        "name:ru": "Дом Гаджинского",
+        "tourism": "historic_house",
+        "wikidata": "Q41692531",
+        "wikimedia_commons": "Category:House of Hajinsky",
+        "wikipedia": "en:Isa bek Hajinski House",
+        "wikipedia:az": "az:İsa_bəy_Hacınskinin_evi_(İçərişəhər)",
+        "wikipedia:en": "en:Isa_bek_Hajinski_House"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Gosha Gala Gates / Double Gates",
+    "name_local": "Qoşa Qala (Gates)",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3687649,
+      "lng": 49.836296
+    },
+    "osm_id": "node/4827120023",
+    "description": "Step through the grand entrance of Gosha Gala Gates, a majestic 19th-century gatehouse that marks the entrance to Old Town Baku. This stunning example of medieval architecture is a must-visit attraction for anyone exploring the rich history and culture of Azerbaijan's capital city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "castle",
+        "name": "Qoşa Qala (Gates)",
+        "name:az": "Qoşa Qala",
+        "name:de": "Doppeltor",
+        "name:en": "Gosha Gala Gates / Double Gates",
+        "name:es": "Puerta doble",
+        "name:ru": "Парные Крепостные Ворота",
+        "tourism": "attraction",
+        "wikidata": "Q30694329",
+        "wikimedia_commons": "Category:Shamakhy Gate of Baku Fortress",
+        "wikipedia": "az:Qoşa qala qapıları",
+        "wikipedia:az": "az:Qoşa qala qapıları",
+        "wikipedia:en": "en:Paired Fortress Gates"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Haji Zeynalabdin Taghiyev",
+    "name_local": "Hacı Zeynalabdin Tağıyev",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3659295,
+      "lng": 49.8311523
+    },
+    "osm_id": "node/9433255983",
+    "description": "Here is a short and inviting travel description:\n\nVisit the stunning Haji Zeynalabdin Taghiyev Memorial in Baku, a poignant tribute to the city's rich history and cultural heritage. This beautiful landmark offers a glimpse into Azerbaijan's fascinating past, making it a must-see destination for anyone exploring this vibrant city.",
+    "metadata": {
+      "osm_tags": {
+        "height": "2.5",
+        "historic": "memorial",
+        "image": "https://az.wikipedia.org/wiki/Hac%C4%B1_Zeynalabdin_Ta%C4%9F%C4%B1yevin_heyk%C9%99li_(Bak%C4%B1)#/media/Fayl:Hac%C4%B1_Zeynalabdin_Ta%C4%9F%C4%B1yevin_Bak%C4%B1dak%C4%B1_heyk%C9%99li.jpg",
+        "memorial": "statue",
+        "name": "Hacı Zeynalabdin Tağıyev",
+        "name:en": "Haji Zeynalabdin Taghiyev",
+        "name:ru": "Гаджи Зейналабдин Тагиев",
+        "start_date": "2022-01-18",
+        "subject:wikidata": "Q126955952",
+        "wikipedia": "az:Hacı Zeynalabdin Tağıyevin heykəli (Bakı)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Baku Turkish Martyrs' Memorial",
+    "name_local": "Bakı Türk Şəhidliyi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3578886,
+      "lng": 49.8279964
+    },
+    "osm_id": "node/9919992462",
+    "description": "The Baku Turkish Martyrs' Memorial is a memorial dedicated to the Ottoman soldiers killed during the Battle of Baku in Azerbaijan. It is situated within the Martyrs' Lane in Baku. It consists of a monument, an alley with name plates of the martyrs and a m",
+    "metadata": {
+      "osm_tags": {
+        "access": "yes",
+        "description:az": "Bakı Türk şəhidliyi — Azərbaycanın ərazi bütövlüyü və Bakının azad olunması (1918, 15 sentyabr) uğrunda həlak olmuş Qafqaz İslam Ordusu döyüşçülərinin xatirəsinə Bakının Şəhidlər Xiyabanında ucaldılmış abidə",
+        "description:en": "The Baku Turkish Martyrs' Memorial is a memorial dedicated to the Ottoman soldiers killed during the Battle of Baku in Azerbaijan. It is situated within the Martyrs' Lane in Baku. It consists of a monument, an alley with name plates of the martyrs and a m",
+        "historic": "monument",
+        "material": "granite",
+        "name": "Bakı Türk Şəhidliyi",
+        "name:az": "Bakı Türk Şəhidliyi",
+        "name:en": "Baku Turkish Martyrs' Memorial",
+        "name:tr": "Bakü Türk Şehitliği ve Anıtı",
+        "start_date": "1999-09-15",
+        "wikidata": "Q15196208",
+        "wikimedia_commons": "Category:Monument to the Turkish soldiers (Baku)",
+        "wikipedia": "az:Bakı Türk Şəhidliyi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 5,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Muslim Magomayev",
+    "name_local": "Müslüm Maqomayev",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3667395,
+      "lng": 49.840332
+    },
+    "osm_id": "node/11136815605",
+    "description": "Visit the poignant memorial of Muslim Magomayev in Baku, where the legendary Azerbaijani singer and actor is honored with a touching tribute to his enduring legacy. Stroll through this historic site and pay your respects to one of Azerbaijan's most beloved cultural icons.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Müslüm Maqomayev",
+        "name:az": "Müslüm Maqomayev",
+        "name:en": "Muslim Magomayev",
+        "name:ru": "Муслим Магомаев",
+        "wikidata": "Q558799",
+        "wikimedia_commons": "Category:Muslim Magomayev",
+        "wikipedia": "en:Muslim Magomayev (musician)"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Hazi Aslanov Graveside Monument",
+    "name_local": "Həzi Aslanov Qəbirüstü Abidəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3582823,
+      "lng": 49.8281261
+    },
+    "osm_id": "node/12965497946",
+    "description": "Visit the poignant Hazi Aslanov Graveside Monument in Baku, a tribute to Azerbaijan's national hero who gave his life for the country's freedom and independence. Stand amidst the tranquil surroundings and pay respects at this historic memorial, a symbol of courage and sacrifice that echoes through the nation's rich history.",
+    "metadata": {
+      "osm_tags": {
+        "artwork_type": "statue",
+        "historic": "memorial",
+        "name": "Həzi Aslanov Qəbirüstü Abidəsi",
+        "name:az": "Həzi Aslanov Qəbirüstü Abidəsi",
+        "name:en": "Hazi Aslanov Graveside Monument",
+        "wikipedia": "en:Hazi Aslanov",
+        "wikipedia:en": "en:Hazi Aslanov"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 10,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Nizami Ganjavi Museum",
+    "name_local": "Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3698045,
+      "lng": 49.8364744
+    },
+    "osm_id": "node/4452302341",
+    "description": "Step into the rich cultural heritage of Azerbaijan at the Nizami Ganjavi Museum in Baku, where ancient texts and manuscripts come alive amidst stunning architecture. Discover the life and works of the great poet Nizami Ganjavi, a true treasure trove of Islamic literature and history.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı muzeyi",
+        "name:az": "Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı muzeyi",
+        "name:en": "Nizami Ganjavi Museum",
+        "name:pl": "Narodowe Muzeum Literatury",
+        "name:ru": "Музей Низами Гянджави",
+        "tourism": "museum",
+        "wikidata": "Q2500152",
+        "wikimedia_commons": "Category:Nizami Museum of Azerbaijan Literature",
+        "wikipedia": "az:Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı Muzeyi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 67,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Uzeyir Hajibeyov's House Museum",
+    "name_local": "Üzeyir Hacıbəylinin ev-muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3775514,
+      "lng": 49.8300176
+    },
+    "osm_id": "node/5268555852",
+    "description": "Step into the elegant world of Azerbaijan's renowned composer Uzeyir Hajibeyov at his historic house museum in Baku, where you can explore the life and works of this musical legend. Discover the opulent interiors, personal belongings, and nostalgic atmosphere that transport visitors through time.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Üzeyir Hacıbəylinin ev-muzeyi",
+        "name:az": "Üzeyir Hacıbəylinin ev-muzeyi",
+        "name:en": "Uzeyir Hajibeyov's House Museum",
+        "name:ru": "Дом-музей Узеира Гаджибекова",
+        "tourism": "museum",
+        "wikidata": "Q31301023",
+        "wikimedia_commons": "Category:House-museum of Uzeyir Hajibeyov (Baku)",
+        "wikipedia": "en:Uzeyir Hajibeyov's House Museum"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 67,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Ismailiyya Palace",
+    "name_local": "Ismailiyya Palace",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3685148,
+      "lng": 49.8337128
+    },
+    "osm_id": "node/12868294043",
+    "description": "Step into the grandeur of Azerbaijan's rich history at the stunning Ismailiyya Palace in Baku, a majestic castle that showcases breathtaking examples of 19th-century Neo-Renaissance architecture. With its intricately designed façade and beautifully manicured gardens, this historic gem is a must-visit destination for anyone seeking an unforgettable cultural experience.",
+    "metadata": {
+      "osm_tags": {
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Ismailiyya Palace",
+        "name:az": "İsmailiyyə Sarayı",
+        "name:en": "Ismailiyya Palace",
+        "name:fa": "کاخ اسماعیلیه",
+        "tourism": "architecture",
+        "wikipedia": "en:Ismailiyya_Palace"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 67,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Alishir Navai Monument",
+    "name_local": "Əlişir Nəvainin heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4075419,
+      "lng": 49.8359983
+    },
+    "osm_id": "node/2002311106",
+    "description": "Visit the poignant Alishir Navai Monument in Baku, a striking tribute to the celebrated Azerbaijani poet and thinker who left an indelible mark on his country's rich cultural heritage. Standing as a symbol of national pride, this memorial serves as a powerful reminder of the enduring legacy of one of Azerbaijan's most beloved sons.",
+    "metadata": {
+      "osm_tags": {
+        "height": "4.5",
+        "historic": "memorial",
+        "material": "bronze",
+        "memorial": "sculpture",
+        "name": "Əlişir Nəvainin heykəli",
+        "name:en": "Alishir Navai Monument",
+        "name:ru": "Памятник Алишеру Навои"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Samad Vurghun monument",
+    "name_local": "Səməd Vurğun heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3786125,
+      "lng": 49.8526533
+    },
+    "osm_id": "node/1472897155",
+    "description": "Here's a short and inviting travel description:\n\nVisit the poignant Samad Vurgun Monument in Baku, Azerbaijan, where stunning architecture meets solemn remembrance. This iconic memorial serves as a tribute to the nation's literary heritage and is not to be missed on your journey through this vibrant city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Səməd Vurğun heykəli",
+        "name:az": "Səməd Vurğun heykəli",
+        "name:en": "Samad Vurghun monument",
+        "name:ru": "Памятник Самеду Вургуну"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Statue of Fikret Amirov",
+    "name_local": "Fikrət Əmirov heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3752306,
+      "lng": 49.8518632
+    },
+    "osm_id": "node/2101927512",
+    "description": "Here is a possible travel description:\n\nVisit the poignant Statue of Fikret Amirov, a moving tribute to Azerbaijan's rich cultural heritage in the heart of bustling Baku. This historic memorial stands as a testament to the country's complex past and its enduring legacy.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Fikrət Əmirov heykəli",
+        "name:az": "Fikrət Əmirov heykəli",
+        "name:en": "Statue of Fikret Amirov",
+        "name:ru": "Памятник Фикрету Амирову"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Dakar circle",
+    "name_local": "Dakar dairəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4101342,
+      "lng": 49.94337
+    },
+    "osm_id": "node/3595652230",
+    "description": "Here's a short and inviting travel description:\n\nDiscover the charming Dakar Circle in Baku, where history meets elegance. This historic monument is a must-visit for those seeking to uncover the secrets of this ancient city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Dakar dairəsi",
+        "name:en": "Dakar circle"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Khurshudbanu Natavan memorial",
+    "name_local": "Xurşudbanu Natəvan heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3692174,
+      "lng": 49.8372403
+    },
+    "osm_id": "node/1464993558",
+    "description": "Visit the Khurshudbanu Natavan Memorial in Baku, a poignant tribute to a 19th-century poetess and patron of the arts, surrounded by lush gardens and tranquil atmosphere. Step into the tranquil oasis that was once her summer residence, now a historic gem offering a glimpse into Azerbaijan's rich cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "memorial",
+        "name": "Xurşudbanu Natəvan heykəli",
+        "name:az": "Xurşudbanu Natəvan heykəli",
+        "name:en": "Khurshudbanu Natavan memorial"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Nasimi Monument",
+    "name_local": "Nəsimi heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3738465,
+      "lng": 49.8421954
+    },
+    "osm_id": "node/1845151385",
+    "description": "Here's a short and inviting travel description:\n\nVisit the Nasimi Monument in Baku, where history meets beauty at this poignant memorial dedicated to Azerbaijan's beloved poet and philosopher, Fuzuli Nasimi. Standing tall in the heart of the city, this stunning monument is a must-see for anyone interested in exploring the rich cultural heritage of Azerbaijan.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Nəsimi heykəli",
+        "name:en": "Nasimi Monument",
+        "wheelchair": "yes"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Nizami Ganjavi monument",
+    "name_local": "Nizami Gəncəvi heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3695773,
+      "lng": 49.835184
+    },
+    "osm_id": "node/1863175576",
+    "description": "Step into the rich history of Azerbaijan at the magnificent Nizami Ganjavi monument in Baku, a stunning tribute to the renowned 12th-century poet and philosopher. This iconic landmark is a must-visit for literature lovers and history enthusiasts alike, offering breathtaking views of the city from its majestic architecture.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Nizami Gəncəvi heykəli",
+        "name:az": "Nizami Gəncəvi heykəli",
+        "name:en": "Nizami Ganjavi monument",
+        "name:fa": "مجسمه نظامی گنجوی",
+        "name:ru": "памятник Низами Гянджяви"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 10,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Nariman Narimanov statue",
+    "name_local": "Nəriman Nərimanov heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3684573,
+      "lng": 49.8244544
+    },
+    "osm_id": "node/2291003426",
+    "description": "Visit the majestic Nariman Narimanov statue in Baku, a poignant memorial to Azerbaijan's national hero that stands as a testament to the city's rich history and cultural heritage. Surrounded by stunning architecture, this iconic landmark offers a glimpse into the country's fascinating past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Nəriman Nərimanov heykəli",
+        "name:en": "Nariman Narimanov statue",
+        "name:ru": "Памятник Нариману Нариманову"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Heydar Aliyev",
+    "name_local": "Heydər Əliyev",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3783534,
+      "lng": 49.844021
+    },
+    "osm_id": "node/3034495926",
+    "description": "Here's a short and inviting travel description:\n\nVisit the poignant Heydar Aliyev Memorial in Baku, a stunning tribute to the country's former president that honors his legacy with beautiful gardens and a majestic mausoleum. As you wander through this serene oasis, take in the rich history and significance of this important landmark.",
+    "metadata": {
+      "osm_tags": {
+        "designation": "Heydər Əliyev heykəli (Heydar Aliyev monument)",
+        "height": "5.2",
+        "historic": "memorial",
+        "material": "granite",
+        "memorial": "statue",
+        "name": "Heydər Əliyev",
+        "name:de": "Heidar Alijew",
+        "name:en": "Heydar Aliyev",
+        "name:fa": "حیدر علی‌اف",
+        "name:ja": "ヘイダル・アリエフ",
+        "name:ru": "Гейдар Алиев",
+        "name:tr": "Haydar Aliyev",
+        "source": "Baku City Administration",
+        "subject:wikidata": "Q157451"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 0,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 10,
+      "wellness_retreater": 5
+    }
+  },
+  {
+    "name": "Heydar Aliyev mafia boss grave",
+    "name_local": "HEYDƏR ƏLİYEV",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.361751,
+      "lng": 49.8199905
+    },
+    "osm_id": "node/3755614407",
+    "description": "Here is a possible travel description:\n\nVisit the poignant tomb of Heydar Aliyev, the former leader who brought stability to Azerbaijan, located in the heart of Baku. This grand memorial serves as a reminder of the country's complex history and is a must-see for anyone interested in exploring the city's rich heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "HEYDƏR ƏLİYEV",
+        "name:en": "Heydar Aliyev mafia boss grave",
+        "name:ru": "Могила Гейдара Алиева"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Zarifa Aliyeva grave",
+    "name_local": "ZƏRİFƏ ƏLİYEVA",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3618414,
+      "lng": 49.8200862
+    },
+    "osm_id": "node/3755614408",
+    "description": "Visit the poignant Zarifa Aliyeva grave in Baku, a tranquil oasis amidst the vibrant city's historic landscape. This beautiful memorial is a tribute to the poetess and educator who left an indelible mark on Azerbaijani culture.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "ZƏRİFƏ ƏLİYEVA",
+        "name:en": "Zarifa Aliyeva grave"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Ataturk monument",
+    "name_local": "Atatürk heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3894702,
+      "lng": 49.8367876
+    },
+    "osm_id": "node/4025621767",
+    "description": "Visit the majestic Ataturk Monument in Baku, a striking tribute to Turkey's beloved leader and a poignant reminder of the country's rich history. Standing tall against the city's vibrant backdrop, this iconic landmark is a must-see destination for anyone interested in historic memorials.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Atatürk heykəli",
+        "name:en": "Ataturk monument",
+        "name:ru": "Памятник Ататюрка"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Rashid Behbudov",
+    "name_local": "Rəşid Behbudov",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3746662,
+      "lng": 49.8467174
+    },
+    "osm_id": "node/4692451990",
+    "description": "Here's a short and inviting travel description:\n\nVisit the poignant Rashid Behbudov Memorial in Baku, Azerbaijan, where the city pays tribute to its beloved poet and singer-songwriter who left an indelible mark on Azerbaijani culture. Stroll through this historic landmark and experience the beauty of Azerbaijan's rich musical heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "material": "granite",
+        "memorial": "statue",
+        "name": "Rəşid Behbudov",
+        "name:az": "Rəşid Behbudov",
+        "name:en": "Rashid Behbudov"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Kyagriz-Water System (Archeological)",
+    "name_local": "Kyagriz-Water System (Archeological)",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3672593,
+      "lng": 49.8373708
+    },
+    "osm_id": "node/6881204385",
+    "description": "11th-13th century underground water channel network supplying Baku’s Old City",
+    "metadata": {
+      "osm_tags": {
+        "access": "yes",
+        "description": "11th-13th century underground water channel network supplying Baku’s Old City",
+        "heritage": "1",
+        "historic": "archaeological_site",
+        "name": "Kyagriz-Water System (Archeological)",
+        "name:az": "Kəhriz Su Sistemi (Arxeoloji)",
+        "name:en": "Kyagriz-Water System (Archeological)",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Church of the Holy Virgin",
+    "name_local": "Surp Astvatsatsin Erməni Kilsəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3657991,
+      "lng": 49.8369392
+    },
+    "osm_id": "node/8132566319",
+    "description": "Step back in time and discover the haunting beauty of the Church of the Holy Virgin, a stunning example of 19th-century architecture nestled in the heart of Baku. Explore the remnants of this once-majestic church, now a poignant reminder of the city's rich history and cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "alt_name:en": "Holy Mother of God Church",
+        "alt_name:ru": "церковь Аствацацин",
+        "historic": "ruins",
+        "name": "Surp Astvatsatsin Erməni Kilsəsi",
+        "name:en": "Church of the Holy Virgin",
+        "name:fa": "کلیسای مریم مقدس",
+        "name:hy": "Սուրբ Աստվածածին եկեղեցի",
+        "name:ru": "Церковь Святой Богоматери"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 5,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Tofig Guliyev monument",
+    "name_local": "Tofiq Quliyev heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3778877,
+      "lng": 49.849972
+    },
+    "osm_id": "node/11876070869",
+    "description": "Visit the iconic Tofig Guliyev monument in Baku's historic streets, a poignant tribute to Azerbaijan's rich past that invites contemplation and reflection. Standing proudly as a symbol of national heritage, this monumental landmark offers a glimpse into the city's storied history and cultural identity.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Tofiq Quliyev heykəli",
+        "name:en": "Tofig Guliyev monument",
+        "name:fa": "مجسمه توفیق قلی اف"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Aliaga Vahid",
+    "name_local": "Əliağa Vahid",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.365826,
+      "lng": 49.8323935
+    },
+    "osm_id": "node/11879170169",
+    "description": "Here is a possible travel description:\n\nStep into the poignant history of Azerbaijan at Aliaga Vahid, a moving memorial in the heart of Baku that pays tribute to those who fought for freedom and peace. Located in this vibrant city, this historic landmark is a must-visit for anyone interested in exploring the country's rich past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "bust",
+        "name": "Əliağa Vahid",
+        "name:az": "Əliağa Vahid",
+        "name:en": "Aliaga Vahid"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Baku British Military Memorial",
+    "name_local": "Bakı Britaniya Hərbi Abidəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.3576589,
+      "lng": 49.8282414
+    },
+    "osm_id": "node/12869233713",
+    "description": "Here's a possible travel description:\n\nVisit the poignant Baku British Military Memorial, a tribute to the Allied forces who fought and died in Azerbaijan during World War II. Located in the heart of Baku, this historic memorial serves as a powerful reminder of the region's rich history and its role in shaping the modern world.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Bakı Britaniya Hərbi Abidəsi",
+        "name:az": "Bakı Britaniya Hərbi Abidəsi",
+        "name:en": "Baku British Military Memorial",
+        "wikimedia_commons": "File:Memorial anglichanam.JPG"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 5,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Museum the exhibition hall of the institute of archeology and ethnology",
+    "name_local": "AMEA Arxeologiya və Etnoqrafiya mueyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.367711,
+      "lng": 49.8366108
+    },
+    "osm_id": "node/5986103490",
+    "description": "Step into the rich history of Azerbaijan at the Museum Exhibition Hall of the Institute of Archaeology and Ethnology in Baku, where ancient artifacts and treasures await discovery. Immerse yourself in a world of archaeological wonders and cultural heritage, showcasing the country's unique blend of East meets West.",
+    "metadata": {
+      "osm_tags": {
+        "fee": "no",
+        "name": "AMEA Arxeologiya və Etnoqrafiya mueyi",
+        "name:en": "Museum the exhibition hall of the institute of archeology and ethnology",
+        "name:pl": "Muzeum Archeologiczne",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 65,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Baku Photography House",
+    "name_local": "Bakı Fotoqrafiya Evi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.3676395,
+      "lng": 49.8365563
+    },
+    "osm_id": "node/11879170178",
+    "description": "Here is a short and inviting travel description:\n\nImmerse yourself in the stunning world of photography at Baku Photography House, a captivating museum showcasing the best of Azerbaijan's visual storytelling. Located in the heart of vibrant Baku, this unique museum offers an unforgettable experience for photography enthusiasts and curious travelers alike.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Bakı Fotoqrafiya Evi",
+        "name:az": "Bakı Fotoqrafiya Evi",
+        "name:en": "Baku Photography House",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "priority_score": 65,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Mirəsədulla Mirqasımov heykəli \\ Xırdalan",
+    "name_local": "Mirəsədulla Mirqasımov heykəli \\ Xırdalan",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4489833,
+      "lng": 49.7568925
+    },
+    "osm_id": "node/3326770910",
+    "description": "Here's a short, inviting travel description:\n\nVisit the poignant Mirəsədulla Mirqasımov Monument in Xırdalan, a moving tribute to Azerbaijan's rich history. Located just outside of bustling Baku, this historic memorial is a must-see for anyone interested in exploring the country's fascinating past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Mirəsədulla Mirqasımov heykəli \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 5,
+      "wellness_retreater": 15
+    },
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2
+  },
+  {
+    "name": "Pasha Baba Qebr",
+    "name_local": "Pasha Baba Qebr",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4294182,
+      "lng": 49.7539524
+    },
+    "osm_id": "node/5493233221",
+    "description": "Here is a short and inviting travel description:\n\nVisit the poignant Pasha Baba Qebr in Baku, a stunning historic memorial site that pays tribute to the city's rich past. Step into this ancient necropolis and uncover the stories of Azerbaijan's history and culture amidst its breathtaking mausoleums and tranquil atmosphere.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Pasha Baba Qebr"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    },
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2
+  },
+  {
+    "name": "Məşədi İmam Baxış Hamam \\ Xırdalan",
+    "name_local": "Məşədi İmam Baxış Hamam \\ Xırdalan",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.444913,
+      "lng": 49.7580014
+    },
+    "osm_id": "node/10984470703",
+    "description": "Step back in time and immerse yourself in the ancient charm of Məşədi İmam Baxış Hamam, a historic oasis nestled in the heart of Xırdalan, just outside Baku. Explore the well-preserved ruins of this 18th-century bathhouse, a testament to Azerbaijan's rich cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "ruins",
+        "name": "Məşədi İmam Baxış Hamam \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    },
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2
+  },
+  {
+    "name": "Yuxarı Sulutəpə",
+    "name_local": "Yuxarı Sulutəpə",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4317727,
+      "lng": 49.7589406
+    },
+    "osm_id": "node/1877218732",
+    "description": "Visit the ancient ruins of Yuxarı Sulutəpə, a historic gem nestled in the heart of Baku, offering breathtaking views and a glimpse into Azerbaijan's rich past. Wander through the archaeological site, uncovering the secrets of this ancient settlement that dates back to the 3rd millennium BC.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Yuxarı Sulutəpə",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 20,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 60
+    },
+    "priority_score": 53,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Aşağı Sulutəpə",
+    "name_local": "Aşağı Sulutəpə",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4322093,
+      "lng": 49.7703672
+    },
+    "osm_id": "node/1877218774",
+    "description": "Discover the ancient charm of Aşağı Sulutəpə, a historic site nestled in the heart of Baku where the past meets the present. Steeped in history and mystery, this attraction invites you to uncover its secrets and experience the rich cultural heritage of Azerbaijan.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Aşağı Sulutəpə",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 30,
+      "beach_lover": 10,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    },
+    "priority_score": 53,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Sulutəpə Dairəsi",
+    "name_local": "Sulutəpə Dairəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.4352441,
+      "lng": 49.775605
+    },
+    "osm_id": "node/6427881385",
+    "description": "Discover the ancient charm of Sulutəpə Dairəsi, a historic district in Baku that transports you back in time with its well-preserved architecture and rich cultural heritage. Explore the narrow streets and uncover the secrets of this hidden gem, steeped in centuries of history and intrigue.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Sulutəpə Dairəsi",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    },
+    "priority_score": 53,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Tez-Bazar Fast Food",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4200728,
+      "lng": 49.7998364
+    },
+    "osm_id": "node/4429728408",
+    "description": "Escape to Baku's vibrant culinary scene at Tez-Bazar Fast Food, where the flavors of the East meet Western favorites in a cozy cafe setting. Savor delicious kebabs, burgers, and pasta dishes alongside traditional Turkish coffee and tea in this inviting international eatery.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "R. Ismayilov",
+        "amenity": "cafe",
+        "cuisine": "arab;asian;balkan;breakfast;burger;chicken;cake;coffee_shop;diner;grill;international;italian_pizza;kebab;pasta;pizza;russian;sandwich;tea;turkish",
+        "name:en": "Tez-Bazar Fast Food",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Tez-Bazar",
+        "phone": "+994554181304"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 20,
+      "adventure_seeker": 0,
+      "beach_lover": 5,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 15
+    },
+    "priority_score": 48,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Murad Palace Şadlıq Sarayı \\ Xocəsən Dairəsi",
+    "name_local": "Murad Palace Şadlıq Sarayı \\ Xocəsən Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4303328,
+      "lng": 49.7855442
+    },
+    "osm_id": "node/4143008389",
+    "description": "Escape to the opulence of Azerbaijan at the Murad Palace Şadlıq Sarayı, a majestic restaurant in the heart of Baku where ancient charm meets modern luxury. Savor exquisite local cuisine amidst the palace's grandeur and breathtaking views of this stunning city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xocəsən yolu",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Murad Palace Şadlıq Sarayı \\ Xocəsən Dairəsi",
+        "opening_hours": "24/7",
+        "operator": "Əfsanə Xanım",
+        "phone": "00994123463701"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 90,
+      "culinary_enthusiast": 95,
+      "wellness_retreater": 40
+    },
+    "priority_score": 45,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Turan restoran",
+    "name_local": "Tural Bileceri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4219255,
+      "lng": 49.7985365
+    },
+    "osm_id": "node/1808672471",
+    "description": "Here's a short and inviting travel description for Turan Restaurant:\n\nIndulge in the flavors of Azerbaijan at Turan Restaurant, nestled in the heart of vibrant Baku. Savor traditional dishes and enjoy breathtaking city views amidst a warm and welcoming atmosphere.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Rəşid İsmayılov küç.",
+        "amenity": "restaurant",
+        "name": "Tural Bileceri",
+        "name:en": "Turan restoran"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 30
+    },
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Komfort İnn Otel \\ Avtovağzal Bakı",
+    "name_local": "Komfort İnn Otel \\ Avtovağzal Bakı",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.415961,
+      "lng": 49.7993435
+    },
+    "osm_id": "node/1826412956",
+    "description": "Here's a short and inviting travel description:\n\nExperience the perfect blend of comfort and convenience at Komfort Inn Hotel, located just steps from Baku's Avtovağzal Bus Station. Enjoy a warm welcome and modern amenities in this stylish hotel, your home away from home in Azerbaijan's vibrant capital city.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Komfort İnn Otel \\ Avtovağzal Bakı",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 10,
+      "wellness_retreater": 15
+    },
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kristal Hotel \\ Biləcəri Dairəsi",
+    "name_local": "Kristal Hotel \\ Biləcəri Dairəsi",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.4211267,
+      "lng": 49.7992288
+    },
+    "osm_id": "node/6280220485",
+    "description": "Escape to the stunning Kristal Hotel in Biləcəri District, Baku, where luxurious comfort meets breathtaking views of the city. Relax and unwind in style, surrounded by modern amenities and unparalleled service that will make your stay truly unforgettable.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Kristal Hotel \\ Biləcəri Dairəsi",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 30,
+      "beach_lover": 20,
+      "luxury_traveler": 80,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 60
+    },
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Xirdalan Şadlıq Saratyı",
+    "name_local": "Xirdalan Şadlıq Saratyı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4413947,
+      "lng": 49.763984
+    },
+    "osm_id": "node/8506149273",
+    "description": "mostly for weddings (ie. assembly hall)",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Xirdalan",
+        "addr:postcode": "AZ0100",
+        "addr:street": "Heydər Əliev pr.",
+        "amenity": "restaurant",
+        "description": "mostly for weddings (ie. assembly hall)",
+        "name": "Xirdalan Şadlıq Saratyı"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 15
+    },
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Karvan kafe \\ Biləcəri",
+    "name_local": "Karvan kafe \\ Biləcəri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4366879,
+      "lng": 49.7814285
+    },
+    "osm_id": "node/2895876518",
+    "description": "Here is a short and inviting travel description:\n\nIndulge in the flavors of Azerbaijan at Karvan Kafe Biləcəri, a charming restaurant nestled in the heart of Baku. Savor traditional dishes with a modern twist, surrounded by the warm hospitality that this vibrant city has to offer.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Karvan kafe \\ Biləcəri"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Ülvi Kafe \\ Xırdalan",
+    "name_local": "Ülvi Kafe \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4461048,
+      "lng": 49.7519069
+    },
+    "osm_id": "node/3253631669",
+    "description": "Escape to the charming Ülvi Kafe in Xırdalan, a serene retreat from bustling Baku, where you can indulge in delicious cuisine amidst a tranquil atmosphere. Savor local flavors and enjoy the picturesque views of the surrounding area at this idyllic café.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Heydər Əliev pr.",
+        "amenity": "cafe",
+        "name": "Ülvi Kafe \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Amazonka Restoran \\ Xırdalan",
+    "name_local": "Amazonka Restoran \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4403811,
+      "lng": 49.7632586
+    },
+    "osm_id": "node/3339531272",
+    "description": "Escape to the heart of Azerbaijan in Baku and indulge in a culinary journey at Amazonka Restoran, where the vibrant spirit of the city meets delectable flavors. Located in the charming Xırdalan district, this restaurant invites you to savor traditional Azerbaijani cuisine amidst a warm and inviting atmosphere.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Amazonka Restoran \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Qədim Qəbələ",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4000054,
+      "lng": 49.7941408
+    },
+    "osm_id": "node/4786674131",
+    "description": "Here's a short and inviting travel description:\n\nExperience the ancient charm of Azerbaijan at Qədim Qəbələ, a quaint cafe in the heart of Baku that serves up delicious local flavors with a warm and welcoming atmosphere. Step into this hidden gem to taste the rich history and culture of this vibrant city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Məhəmməd Xiyabani",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Qədim Qəbələ"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 95,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Qoşa Çinar Restoran \\ Avtovağzal Biləcəri",
+    "name_local": "Qoşa Çinar Restoran \\ Avtovağzal Biləcəri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4202029,
+      "lng": 49.7974565
+    },
+    "osm_id": "node/5896090567",
+    "description": "Here's a short and inviting travel description:\n\nIndulge in the flavors of Azerbaijan at Qoşa Çinar Restoran Avtovağzal Biləcəri, a charming restaurant in the heart of Baku serving up delicious local cuisine with a modern twist. Enjoy a warm welcome and breathtaking city views as you savor each bite in this vibrant culinary gem.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Qoşa Çinar Restoran \\ Avtovağzal Biləcəri"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Çinar kafe \\ Xırdalan",
+    "name_local": "Çinar kafe \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.440912,
+      "lng": 49.760705
+    },
+    "osm_id": "node/6537583387",
+    "description": "Escape to the charming Çinar Kafe in Baku, where the tranquil atmosphere and lush surroundings of Xırdalan await your arrival. Savor local flavors and refreshments amidst nature's serenity, making this hidden gem a must-visit destination for those seeking a peaceful retreat from the city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Heydər Əliyev pr.",
+        "amenity": "cafe",
+        "name": "Çinar kafe \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "VOLQA ÇAY EVİ",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4315248,
+      "lng": 49.7982939
+    },
+    "osm_id": "node/6635204693",
+    "description": "Escape to the serene haven of Volqa Çay Evı in Baku, where the soothing sounds of the city fade away amidst lush greenery and the gentle rustle of tea leaves. This charming cafe invites you to unwind with a steaming cup of your favorite brew, surrounded by natural beauty in the heart of Azerbaijan's vibrant capital.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Y. Huseynov",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "VOLQA ÇAY EVİ"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Palmera Restaurant",
+    "name_local": "Palmera Restaurant",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4002508,
+      "lng": 49.7941318
+    },
+    "osm_id": "node/9967288046",
+    "description": "Here is a short and inviting travel description:\n\nIndulge in the flavors of Azerbaijan at Palmera Restaurant, nestled in the heart of vibrant Baku. Savor traditional dishes with a modern twist amidst elegant surroundings, making for an unforgettable dining experience.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/palmerarestoran/",
+        "name": "Palmera Restaurant"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 30,
+      "beach_lover": 0,
+      "luxury_traveler": 70,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 20
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Dördyol Kafe",
+    "name_local": "Dördyol Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4422348,
+      "lng": 49.7859715
+    },
+    "osm_id": "node/10299316011",
+    "description": "Escape to the charming atmosphere of Dördyol Kafe in Baku, where traditional Azerbaijani cuisine meets cozy café vibes. Gather with friends or family and indulge in delicious local specialties amidst the warm hospitality of this hidden gem.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Biləcəri",
+        "amenity": "cafe",
+        "name": "Dördyol Kafe"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 0,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Qarabağ Kafe",
+    "name_local": "Qarabağ Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.447094,
+      "lng": 49.7989936
+    },
+    "osm_id": "node/10299316032",
+    "description": "Here is a short and inviting travel description:\n\nStep into the charming Qarabağ Kafe in the heart of Baku, where traditional Azerbaijani flavors meet modern comfort in a cozy atmosphere. Enjoy authentic local dishes and refreshing drinks amidst the vibrant energy of this bustling city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Biləcəri - Dairəvi yol",
+        "amenity": "cafe",
+        "name": "Qarabağ Kafe"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 30,
+      "beach_lover": 20,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 50
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Zirvə Çay Evi",
+    "name_local": "Zirvə Çay Evi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4475135,
+      "lng": 49.7992699
+    },
+    "osm_id": "node/10299316033",
+    "description": "Escape to the tranquil haven of Zirvə Çay Evi in the heart of Baku, where traditional Azerbaijani charm meets modern comfort. Savor local delicacies and specialty teas amidst a serene atmosphere that will transport you to a world of tranquility.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Biləcəri - Dairəvi yol",
+        "amenity": "cafe",
+        "name": "Zirvə Çay Evi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Manqal Kafe",
+    "name_local": "Manqal Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4375223,
+      "lng": 49.7950105
+    },
+    "osm_id": "node/10299359572",
+    "description": "Escape to the charming Manqal Kafe in Baku, where rich flavors and aromatic spices transport you to a world of Middle Eastern delight amidst the vibrant streets of Azerbaijan's capital. Savor traditional dishes in this cozy cafe's warm atmosphere, perfectly blending local hospitality with international flair.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Biləcəri",
+        "amenity": "cafe",
+        "name": "Manqal Kafe"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 10,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Qızıl Gül Kafe \\ Sulutəpə Dairəsi",
+    "name_local": "Qızıl Gül Kafe \\ Sulutəpə Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4352909,
+      "lng": 49.7763598
+    },
+    "osm_id": "node/10301195189",
+    "description": "Here's a short and inviting travel description:\n\nEscape to the charming Qızıl Gül Kafe in Sulutəpə Dairəsi, Baku, where traditional Azerbaijani flavors meet cozy atmosphere and stunning city views. Savor local delicacies and refreshing drinks amidst lush surroundings, making this café a hidden gem not to miss in vibrant Baku.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Qızıl Gül Kafe \\ Sulutəpə Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 30,
+      "beach_lover": 20,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 50
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Dəfnə Restoran \\ Biləcəri",
+    "name_local": "Dəfnə Restoran \\ Biləcəri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4467144,
+      "lng": 49.7759441
+    },
+    "osm_id": "node/10537564147",
+    "description": "Here's a short and inviting travel description:\n\nIndulge in the flavors of Azerbaijan at Dəfnə Restoran \\ Biləcəri, a charming eatery in the heart of Baku where traditional cuisine meets modern flair. Savor local specialties in a cozy atmosphere that's sure to leave you wanting more.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xırdalan - Binəqədi yolu",
+        "amenity": "restaurant",
+        "name": "Dəfnə Restoran \\ Biləcəri"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Çırağan Şadlıq Sarayı \\ Biləcəri",
+    "name_local": "Çırağan Şadlıq Sarayı \\ Biləcəri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4490244,
+      "lng": 49.7770719
+    },
+    "osm_id": "node/10537564260",
+    "description": "Here's a short, inviting travel description:\n\nIndulge in the flavors of Azerbaijan at Çırağan Şadlıq Sarayı \\ Biləcəri, a stunning restaurant nestled in the heart of Baku that serves up delectable dishes with breathtaking views of the city.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Çırağan Şadlıq Sarayı \\ Biləcəri"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 70,
+      "adventure_seeker": 30,
+      "beach_lover": 10,
+      "luxury_traveler": 90,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kür Ailəvi Restoran",
+    "name_local": "Kür Ailəvi Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4440077,
+      "lng": 49.7714017
+    },
+    "osm_id": "node/10537626919",
+    "description": "Indulge in the rich flavors of Azerbaijani cuisine at Kür Ailəvi Restoran, a charming restaurant nestled in the heart of Baku. Savor traditional dishes in a warm and inviting atmosphere that will make you feel like part of the family.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Kür Ailəvi Restoran"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "032 Xal Restoran",
+    "name_local": "032 Xal Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4436923,
+      "lng": 49.7724411
+    },
+    "osm_id": "node/10537626934",
+    "description": "Here's a possible travel description:\n\nIndulge in the flavors of Azerbaijan at 032 Xal Restoran, a vibrant eatery nestled in the heart of Baku where traditional cuisine meets modern flair. Savor every bite of this culinary gem, offering an unforgettable dining experience amidst the city's rich cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Biləcəri",
+        "amenity": "restaurant",
+        "name": "032 Xal Restoran"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Mərasim Zalı \\ Biıəcəri",
+    "name_local": "Mərasim Zalı \\ Biıəcəri",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4436995,
+      "lng": 49.7728743
+    },
+    "osm_id": "node/10537626935",
+    "description": "Here's a short and inviting travel description:\n\nIndulge in the rich flavors of Azerbaijan at Mərasim Zalı \\ Biıəcəri, a vibrant restaurant in the heart of Baku where traditional cuisine meets modern elegance. Savor local delicacies amidst the bustling energy of this cosmopolitan city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xırdalan - Binəqədi yolu",
+        "amenity": "restaurant",
+        "name": "Mərasim Zalı \\ Biıəcəri"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Tik Tok Çay Evi",
+    "name_local": "Tik Tok Çay Evi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4442139,
+      "lng": 49.7731867
+    },
+    "osm_id": "node/10537626941",
+    "description": "Escape to the charming Tik Tok Çay Evi in the heart of Baku, where rich flavors and cozy atmosphere blend together in perfect harmony. Indulge in a traditional Azerbaijani tea experience amidst the warm ambiance of this quaint cafe.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xırdalan - Binəqədi yolu",
+        "amenity": "cafe",
+        "name": "Tik Tok Çay Evi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Şah Restoran \\ Xırdalan",
+    "name_local": "Şah Restoran \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4410437,
+      "lng": 49.7598481
+    },
+    "osm_id": "node/10963971950",
+    "description": "Escape to the heart of Azerbaijan at Şah Restoran in Xırdalan, where traditional flavors meet modern charm just outside vibrant Baku. Savor the rich culinary heritage of this Eastern gem amidst lush surroundings and warm hospitality.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Şah Restoran \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 70,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "MM Club Lounge \\ Xırdalan",
+    "name_local": "MM Club Lounge \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4452508,
+      "lng": 49.7538802
+    },
+    "osm_id": "node/10984699070",
+    "description": "Escape to the luxurious MM Club Lounge in Xırdalan, just outside of Baku, where you can indulge in delicious cuisine and sophisticated ambiance in a serene Azerbaijani setting. Treat yourself to a refined dining experience amidst lush surroundings, perfect for both relaxation and rejuvenation.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Heydər Əliev pr.",
+        "amenity": "cafe",
+        "name": "MM Club Lounge \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 30,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Qala Kafe \\ Xırdalan",
+    "name_local": "Qala Kafe \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.440811,
+      "lng": 49.7640645
+    },
+    "osm_id": "node/10984906133",
+    "description": "Here's a short and inviting travel description:\n\nEscape to the charming Qala Kafe in Baku, where you can indulge in delicious local cuisine amidst a picturesque setting with breathtaking views of the city. Savor every moment at this cozy café, a hidden gem nestled in Xırdalan that will leave you feeling refreshed and inspired.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Heydər Əliev pr.",
+        "amenity": "cafe",
+        "name": "Qala Kafe \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 50,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Balıqçı Kafe \\ Xırdalan",
+    "name_local": "Balıqçı Kafe \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4411999,
+      "lng": 49.7641973
+    },
+    "osm_id": "node/10984906146",
+    "description": "Here's a short and inviting travel description for Balıqçı Kafe in Xırdalan, near Baku:\n\nEscape to the tranquil waterside setting of Balıqçı Kafe, where you can savor delicious Azerbaijani cuisine while taking in breathtaking views of the Caspian Sea. This charming cafe in Xırdalan is a hidden gem just outside Baku, perfect for a relaxing meal or snack with stunning scenery.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Balıqçı Kafe \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 30,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 15
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kibrit Klub Kafe \\ Xırdalan",
+    "name_local": "Kibrit Klub Kafe \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4410223,
+      "lng": 49.7710021
+    },
+    "osm_id": "node/10984906162",
+    "description": "Escape to the charming Kibrit Klub Kafe in Baku's vibrant Xırdalan district, where a warm atmosphere and delicious local cuisine come together in perfect harmony. Indulge in traditional Azerbaijani flavors amidst cozy surroundings, making this hidden gem an ideal spot for a relaxing meal or casual meet-up.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Heydər Əliev pr.",
+        "amenity": "cafe",
+        "name": "Kibrit Klub Kafe \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Çəllək Pivəsi \\ Xırdalan",
+    "name_local": "Çəllək Pivəsi \\ Xırdalan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4438036,
+      "lng": 49.7615768
+    },
+    "osm_id": "node/10984906217",
+    "description": "Escape to the charming Çəllək Pivəsi in Xırdalan, Baku, where the tranquil atmosphere and delicious brews will transport you to a haven of relaxation. Savor every moment in this cozy café, perfectly blending traditional Azerbaijani hospitality with modern comforts.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xətai küç.",
+        "amenity": "cafe",
+        "name": "Çəllək Pivəsi \\ Xırdalan"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Lalə Kafe \\ Xırdalan Dairəsi",
+    "name_local": "Lalə Kafe \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4418041,
+      "lng": 49.7716807
+    },
+    "osm_id": "node/10989984071",
+    "description": "Escape to the tranquil oasis of Lalə Kafe in Baku's charming Xırdalan Dairəsi district, where delicious flavors and warm hospitality await amidst lush surroundings. Savor local delicacies and enjoy a serene atmosphere at this picturesque café.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Lalə Kafe \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Çinar Kafe \\ Xırdalan Dairəsi",
+    "name_local": "Çinar Kafe \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4416265,
+      "lng": 49.7717048
+    },
+    "osm_id": "node/10989984074",
+    "description": "Here's a short and inviting travel description:\n\nEscape to the tranquil oasis of Çinar Kafe in Xırdalan Dairəsi, Baku, where delicious Azerbaijani cuisine meets stunning natural surroundings. Savor traditional flavors and enjoy breathtaking views from this charming cafe-restaurant nestled in the heart of the city.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Çinar Kafe \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Mars Kafe \\ Xırdalan Dairəsi",
+    "name_local": "Mars Kafe \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4415663,
+      "lng": 49.7716391
+    },
+    "osm_id": "node/10989984075",
+    "description": "Here's a short and inviting travel description:\n\nEscape to the Martian landscape at Mars Kafe, a unique dining experience in the heart of Xırdalan Dairəsi, Baku. Savor local flavors with a cosmic twist amidst a fun and futuristic atmosphere that's out of this world!",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Mars Kafe \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 40,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Şamlıq Restoran \\ Xırdalan Ekologiya Postu",
+    "name_local": "Şamlıq Restoran \\ Xırdalan Ekologiya Postu",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4372855,
+      "lng": 49.7767648
+    },
+    "osm_id": "node/10989984079",
+    "description": "Escape to the heart of Azerbaijan at Şamlıq Restoran \\ Xırdalan Ekologiya Postu, a scenic restaurant in Baku where the lush surroundings and delectable local cuisine blend together in perfect harmony. Savor the flavors of this enchanting eatery amidst nature's serenity.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Şamlıq Restoran \\ Xırdalan Ekologiya Postu"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 50,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Abşeron Restoran \\ Xırdalan Dairəsi",
+    "name_local": "Abşeron Restoran \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4405426,
+      "lng": 49.7729735
+    },
+    "osm_id": "node/10990059749",
+    "description": "Here's a short and inviting travel description:\n\nSavor the flavors of Azerbaijan at Abşeron Restoran in Baku, where traditional cuisine meets modern charm in the scenic Xırdalan Dairəsi region. Come for the delicious local dishes and stay for the stunning views of this beautiful city.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Abşeron Restoran \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 20,
+      "adventure_seeker": 10,
+      "beach_lover": 30,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 0
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Dilan Kafe \\ Xırdalan Dairəsi",
+    "name_local": "Dilan Kafe \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4414642,
+      "lng": 49.7734013
+    },
+    "osm_id": "node/10990059760",
+    "description": "Escape to the charming Dilan Kafe in Baku's scenic Xırdalan Dairəsi, where the aroma of traditional Azerbaijani cuisine and the warmth of its cozy atmosphere invite you to linger over a meal. Situated amidst the city's tranquil surroundings, this inviting cafe is the perfect retreat from Baku's bustling streets.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Dilan Kafe \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Avtoş Dönər \\ Xırdalan Dairəsi",
+    "name_local": "Avtoş Dönər \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4427452,
+      "lng": 49.7730272
+    },
+    "osm_id": "node/10990059763",
+    "description": "Here's a short, inviting travel description for Avtoş Dönər \\ Xırdalan Dairəsi:\n\nIndulge in the flavors of Azerbaijan at Avtoş Dönər, a charming cafe in the heart of Baku where traditional dishes meet modern twists. Nestled in the Xırdalan Dairəsi neighborhood, this cozy eatery is a must-visit for foodies and locals alike.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Avtoş Dönər \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Həkəri Kafe \\ Xırdalan Dairəsi",
+    "name_local": "Həkəri Kafe \\ Xırdalan Dairəsi",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4427513,
+      "lng": 49.7725953
+    },
+    "osm_id": "node/10990059768",
+    "description": "Here's a short, inviting travel description:\n\nEscape to the charming Hakari Cafe in Baku's Xirdalan District, where traditional Azerbaijani flavors meet modern comfort in a cozy and intimate setting. Savor local specialties amidst a warm and welcoming atmosphere that's perfect for a relaxing respite from exploring this vibrant city.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Həkəri Kafe \\ Xırdalan Dairəsi"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Ləziz Manqal",
+    "name_local": "Ləziz Manqal",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4498985,
+      "lng": 49.751135
+    },
+    "osm_id": "node/10990172659",
+    "description": "Indulge in the flavors of Azerbaijan at Ləziz Manqal, a charming cafe-restaurant in the heart of Baku where traditional dishes meet modern twists. Savor the taste of local delicacies amidst a cozy and inviting atmosphere that will leave you feeling like part of the city's vibrant culinary scene.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Rəsulzadə küç.",
+        "amenity": "cafe",
+        "name": "Ləziz Manqal"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 70,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 40
+    },
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Orxan Kafe",
+    "name_local": "Orxan Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4465521,
+      "lng": 49.7974768
+    },
+    "osm_id": "node/10299316031",
+    "description": "Here's a short and inviting travel description:\n\nStep into the charming Orxan Kafe in the heart of Baku, where you can indulge in delicious local flavors and take in the vibrant atmosphere of this stunning city. Savor traditional Azerbaijani cuisine amidst beautifully crafted decor that reflects the country's rich cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Biləcəri - Dairəvi yol",
+        "amenity": "cafe",
+        "name": "Orxan Kafe"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 90,
+      "wellness_retreater": 10
+    },
+    "priority_score": 20,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Xızı Kafe",
+    "name_local": "Xızı Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4493036,
+      "lng": 49.7505395
+    },
+    "osm_id": "node/10990172653",
+    "description": "Here's a short and inviting travel description:\n\nEscape to the charming Xızı Kafe in Baku, where delicious Azerbaijani cuisine meets breathtaking views of the city. Savor traditional dishes and refreshing drinks amidst a cozy atmosphere that will leave you feeling like you're nestled in the heart of Azerbaijan.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Rəsulzadə küç.",
+        "amenity": "cafe",
+        "name": "Xızı Kafe"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 60,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 30
+    },
+    "priority_score": 20,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Qala",
+    "name_local": "Qala",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4471961,
+      "lng": 49.7764188
+    },
+    "osm_id": "node/10537564148",
+    "description": "Here is a short and inviting travel description:\n\nExperience the warm hospitality of Azerbaijan at Qala, a charming café in the heart of Baku where traditional flavors meet modern style. Savor local delicacies and enjoy stunning city views from this cozy oasis amidst the vibrant streets of Azerbaijan's capital.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xırdalan - Binəqədi yolu",
+        "amenity": "cafe",
+        "name": "Qala"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 0,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 95,
+      "wellness_retreater": 30
+    },
+    "priority_score": 10,
+    "priority_tier": "low_priority",
+    "enrichment_priority": 5
+  },
+  {
+    "name": "Ağdam",
+    "name_local": "Ağdam",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.4444078,
+      "lng": 49.7733678
+    },
+    "osm_id": "node/10537626940",
+    "description": "Here is a short and inviting travel description:\n\nEscape to the tranquil oasis of Ağdam in Baku, where the warm aroma of Azerbaijani cuisine wafts through the air at this charming cafe. Indulge in traditional flavors with a modern twist amidst lush surroundings, making for the perfect retreat from city life.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Xırdalan - Binəqədi yolu",
+        "amenity": "cafe",
+        "name": "Ağdam"
+      }
+    },
+    "city_name": "Baku",
+    "country_code": "Azerbaijan",
+    "persona_scores": {
+      "cultural_explorer": 50,
+      "adventure_seeker": 30,
+      "beach_lover": 20,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 80,
+      "wellness_retreater": 10
+    },
+    "priority_score": 10,
+    "priority_tier": "low_priority",
+    "enrichment_priority": 5
+  }
+]

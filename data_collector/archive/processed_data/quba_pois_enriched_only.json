@@ -1,0 +1,426 @@
+[
+  {
+    "name": "History and Ethnography Museum",
+    "name_local": "Quba Tarix və Etnoqrafiya muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3625587,
+      "lng": 48.5056999
+    },
+    "osm_id": "node/5995679787",
+    "description": "Step into the rich cultural heritage of Azerbaijan at the History and Ethnography Museum in Quba, where traditional customs and stories come alive through an impressive collection of artifacts and exhibits. Immerse yourself in the history and traditions of this enchanting region, and discover the secrets of a bygone era amidst the museum's evocative surroundings.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "name": "Quba Tarix və Etnoqrafiya muzeyi",
+        "name:en": "History and Ethnography Museum",
+        "name:pl": "Muzeum Historyczno-Etnograficzne",
+        "opening_hours": "Tu-Sa 10:00-13:00, 14:00-18:00",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 70,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 20,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Old doomed Turkish bathroom - Hundur Gumbazli High Domed Hamam",
+    "name_local": "Hündür Kümbəzli Hamam \\ Quba",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3623669,
+      "lng": 48.5074648
+    },
+    "osm_id": "node/5995668088",
+    "description": "Here's a short travel description for the Old Doomed Turkish Bathroom:\n\nStep into the mystical world of Hundur Gumbazli High Domed Hamam, an ancient Turkish bath in Quba that has stood the test of time. This crumbling relic of a bygone era now beckons curious travelers to explore its atmospheric ruins and uncover the secrets of Azerbaijan's rich history.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "amenity": "public_bath",
+        "historic": "ruins",
+        "name": "Hündür Kümbəzli Hamam \\ Quba",
+        "name:az": "Hündür Kümbəzli Hamam \\ Quba",
+        "name:en": "Old doomed Turkish bathroom - Hundur Gumbazli High Domed Hamam",
+        "phone": "+994702441154;+994702046400",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 69,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 20,
+      "luxury_traveler": 0,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Haji Jafar Mosque",
+    "name_local": "Hacı Cəfər Məscidi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.362835,
+      "lng": 48.5096732
+    },
+    "osm_id": "node/5933384087",
+    "description": "Here's a short and inviting travel description for the Haji Jafar Mosque:\n\nVisit the stunning Haji Jafar Mosque in Quba, one of Azerbaijan's most revered Islamic landmarks, where history meets spirituality. Step into this 14th-century temple and experience the tranquility and beauty of one of Islam's holiest sites.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "addr:street": "Ərdəbil",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "historic": "yes",
+        "name": "Hacı Cəfər Məscidi",
+        "name:az": "Hacı Cəfər Məscidi",
+        "name:en": "Haji Jafar Mosque",
+        "religion": "muslim",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 5,
+      "wellness_retreater": 85
+    }
+  },
+  {
+    "name": "Juma Mosque",
+    "name_local": "Cümə Məscidi \\ Quba",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.363195,
+      "lng": 48.5121203
+    },
+    "osm_id": "node/5933384088",
+    "description": "Here is a short and inviting travel description:\n\nStep into the serene beauty of Juma Mosque in Quba, Azerbaijan, a stunning mosque that has been welcoming worshippers for centuries. With its intricate architecture and rich history, this ancient temple is a must-visit destination for anyone interested in exploring the spiritual heart of this charming city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "historic": "yes",
+        "name": "Cümə Məscidi \\ Quba",
+        "name:az": "Cümə Məscidi",
+        "name:en": "Juma Mosque",
+        "religion": "muslim",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 15,
+      "wellness_retreater": 85
+    }
+  },
+  {
+    "name": "Jewish Museum",
+    "name_local": "Dağ yəhudilərin muzeyi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.3674368,
+      "lng": 48.5097155
+    },
+    "osm_id": "node/5995679786",
+    "description": "Step into the tranquil atmosphere of the Jewish Museum in Quba, where history and culture come alive amidst the stunning architecture of this ancient temple. Discover the rich heritage of the local Jewish community at this revered museum, a must-visit destination for any traveler seeking a glimpse into Azerbaijan's diverse past.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Quba",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "historic": "yes",
+        "name": "Dağ yəhudilərin muzeyi",
+        "name:en": "Jewish Museum",
+        "name:pl": "Stara synagoga w Quba",
+        "religion": "jewish",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Pharmacy at the Synagogue",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3671824,
+      "lng": 48.5065347
+    },
+    "osm_id": "node/7281820786",
+    "description": "Step into the historic Pharmacy at the Synagogue in Quba, Azerbaijan, and discover a unique blend of Eastern European and Azerbaijani architectural charm. This fascinating attraction offers a glimpse into the region's rich cultural heritage, making it a must-visit for history buffs and curious travelers alike.",
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Pharmacy at the Synagogue",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Quba Genocide Memorial Complex;Quba 1918 Genocide Memorial Complex",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3621089,
+      "lng": 48.4930104
+    },
+    "osm_id": "node/4504765689",
+    "description": "Step into the somber yet poignant Quba Genocide Memorial Complex, a tribute to the victims of the 1918 genocide that unfolded in this very region. This hauntingly beautiful memorial serves as a powerful reminder of history's darkest moments, inviting reflection and contemplation amidst its serene Azerbaijan landscape.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "Quba Genocide Memorial Complex;Quba 1918 Genocide Memorial Complex"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 80
+    }
+  },
+  {
+    "name": "Dədə Qorqut",
+    "name_local": "Dədə Qorqut",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3614567,
+      "lng": 48.5124984
+    },
+    "osm_id": "node/3289870862",
+    "description": "Step into the tranquil surroundings of Dədə Qorqud, a revered memorial in Quba's heart, where the legacy of Azerbaijan's rich cultural heritage awaits discovery. This sacred site is a testament to the country's storied past, offering a glimpse into the lives and traditions of its ancestors.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Dədə Qorqut"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "II war monument 1941-1945",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3667517,
+      "lng": 48.5050955
+    },
+    "osm_id": "node/5871094895",
+    "description": "Step into the poignant history of Azerbaijan at the II War Monument 1941-1945 in Quba, a somber yet evocative tribute to those who fought and fell during World War II. As you pay your respects at this hauntingly beautiful memorial, remember the sacrifices made by soldiers from across the Soviet Union.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "II war monument 1941-1945",
+        "name:ru": "1941-1945"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Heydər Əliyev heyləli \\ Quba",
+    "name_local": "Heydər Əliyev heyləli \\ Quba",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.3646947,
+      "lng": 48.5536492
+    },
+    "osm_id": "node/11086803219",
+    "description": "Visit the poignant Heydər Əliyev heyləli, a historic memorial in Quba that pays tribute to Azerbaijan's beloved leader and national hero. Surrounded by breathtaking scenery, this tranquil site is a must-see for anyone interested in history and culture.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Heydər Əliyev heyləli \\ Quba"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Quba History Museum",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3639384,
+      "lng": 48.5126273
+    },
+    "osm_id": "node/5933384506",
+    "description": "Step into the rich past of Azerbaijan at the Quba History Museum, where ancient artifacts and exhibits bring to life the region's fascinating history. Located in the charming city of Quba, this museum is a must-visit for anyone interested in exploring the cultural heritage of this stunning region.",
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Quba History Museum",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Bayraq Muzeyi \\ Quba",
+    "name_local": "Bayraq Muzeyi \\ Quba",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3650132,
+      "lng": 48.5517207
+    },
+    "osm_id": "node/5990491293",
+    "description": "Step into the vibrant history of Azerbaijan at the Bayraq Muzeyi in Quba, a stunning museum showcasing the region's rich cultural heritage. Discover the treasures and stories that make this enchanting city so unique, from ancient textiles to traditional crafts.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Bayraq Muzeyi \\ Quba",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 5,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "Heydər Əliyev Mərkəzi \\ Quba",
+    "name_local": "Heydər Əliyev Mərkəzi \\ Quba",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.3653595,
+      "lng": 48.5535568
+    },
+    "osm_id": "node/11086803141",
+    "description": "Here's a short and inviting travel description for the Heydər Əliyev Mərkəzi / Quba:\n\nStep into the heart of Quba's rich history at the Heydər Əliyev Mərkəzi, a museum showcasing the city's cultural heritage and legacy. Discover the stories of this ancient town in an intimate setting that will leave you enchanted by its unique charm.",
+    "metadata": {
+      "osm_tags": {
+        "amenity": "townhall",
+        "name": "Heydər Əliyev Mərkəzi \\ Quba",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Quba",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 30,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 50
+    }
+  }
+]

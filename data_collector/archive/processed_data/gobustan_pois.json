@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Şəhriyan Şadlıq Sarayı \\ Qobustan",
+    "name_local": "Şəhriyan Şadlıq Sarayı \\ Qobustan",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0833775,
+      "lng": 49.4098628
+    },
+    "osm_id": "node/11328181590",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Şəhriyan Şadlıq Sarayı \\ Qobustan"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0851055,
+      "lng": 49.4153666
+    },
+    "osm_id": "node/11329945856",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qobustan Şadlıq Sarayı",
+    "name_local": "Qobustan Şadlıq Sarayı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0830646,
+      "lng": 49.4153801
+    },
+    "osm_id": "node/11329956187",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Qobustan Şadlıq Sarayı"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qobustan Duvanna Kafe",
+    "name_local": "Qobustan Duvanna Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0789437,
+      "lng": 49.4120246
+    },
+    "osm_id": "node/11329956253",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Qobustan Duvanna Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0888618,
+      "lng": 49.4158789
+    },
+    "osm_id": "node/11331435387",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Şirvanşah Kafe",
+    "name_local": "Şirvanşah Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0883775,
+      "lng": 49.4157904
+    },
+    "osm_id": "node/11331770787",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Şirvanşah Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Xarı Bülbül Restoran",
+    "name_local": "Xarı Bülbül Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0868733,
+      "lng": 49.4148356
+    },
+    "osm_id": "node/11331770788",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Xarı Bülbül Restoran"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0606222,
+      "lng": 49.4155812
+    },
+    "osm_id": "node/11334724608",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Nicat Kafe",
+    "name_local": "Nicat Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0588321,
+      "lng": 49.4160815
+    },
+    "osm_id": "node/11334724610",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Nicat Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qızılqum Kafe",
+    "name_local": "Qızılqum Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.0540528,
+      "lng": 49.4159487
+    },
+    "osm_id": "node/11334724653",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Qızılqum Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Boyuk Kanizadag mud vulkano",
+    "name_local": "Böyük Kənizədağ Palçıq vulkanı",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.1417688,
+      "lng": 49.3821644
+    },
+    "osm_id": "node/244371752",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "condition": "active",
+        "ele": "397.5",
+        "name": "Böyük Kənizədağ Palçıq vulkanı",
+        "name:az": "Böyük Kənizədağ Palçıq vulkanı",
+        "name:en": "Boyuk Kanizadag mud vulkano",
+        "natural": "volcano",
+        "tourism": "attraction",
+        "volcano:status": "dormant",
+        "volcano:type": "mud volcano"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Gobustan Rock Art Cultural Landscapes",
+    "name_local": "Qobustan Dövlət Qoruğu",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.1117238,
+      "lng": 49.3787636
+    },
+    "osm_id": "node/244398416",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "archaeological_site": "petroglyph",
+        "historic": "archaeological_site",
+        "name": "Qobustan Dövlət Qoruğu",
+        "name:az": "Qobustan Dövlət Qoruğu",
+        "name:en": "Gobustan Rock Art Cultural Landscapes",
+        "name:fr": "Réserve de Gobustan",
+        "name:he": "שמורת גובוסטאן",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "tourism": "attraction",
+        "website": "https://whc.unesco.org/en/list/1076",
+        "wikidata": "Q318181",
+        "wikimedia_commons": "Category:Gobustan State Reserve",
+        "wikipedia": "en:Gobustan State Reserve"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Roman Legion XII inscriptions \\ Qubustan",
+    "name_local": "Roma Legionerlərin yazısı \\ İmperator Domisian XII",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.1023787,
+      "lng": 49.3873034
+    },
+    "osm_id": "node/1976790538",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "archaeological_site": "petroglyph",
+        "historic": "archaeological_site",
+        "name": "Roma Legionerlərin yazısı \\ İmperator Domisian XII",
+        "name:az": "Roma Legionerlərin yazısı \\ İmperator Domisian",
+        "name:en": "Roman Legion XII inscriptions \\ Qubustan",
+        "name:ja": "ローマ軍団第12軍の碑文",
+        "website": "https://whc.unesco.org/en/list/1076",
+        "wikidata": "Q318181",
+        "wikimedia_commons": "Category:Gobustan State Reserve",
+        "wikipedia": "en:Gobustan National Park"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.1110997,
+      "lng": 49.378408
+    },
+    "osm_id": "node/5879742286",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  },
+  {
+    "name": "Qotur mud vulkano",
+    "name_local": "Qotur palçıq vulkanı \\ Qaradağ",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.1290489,
+      "lng": 49.407835
+    },
+    "osm_id": "node/11336695182",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "condition": "active",
+        "ele": "397.5",
+        "name": "Qotur palçıq vulkanı \\ Qaradağ",
+        "name:az": "Qotur palçıq vulkanı \\ Qaradağ",
+        "name:en": "Qotur mud vulkano",
+        "natural": "volcano",
+        "tourism": "attraction",
+        "volcano:status": "dormant",
+        "volcano:type": "mud volcano"
+      }
+    },
+    "city_name": "Gobustan",
+    "country_code": "Azerbaijan"
+  }
+]

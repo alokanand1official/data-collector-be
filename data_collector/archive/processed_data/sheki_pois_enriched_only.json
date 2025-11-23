@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Sheki State Art Gallery",
+    "name_local": "Şəki Dövlət Rəsm Qalereyası",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.2034674,
+      "lng": 47.1953165
+    },
+    "osm_id": "node/6010366989",
+    "description": "Step into the stunning world of Azerbaijani art at the Sheki State Art Gallery, a treasure trove of traditional and contemporary masterpieces that showcase the country's rich cultural heritage. Housed in a beautifully restored 18th-century palace, this museum is a must-visit for art lovers and curious travelers alike.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki Dövlət Rəsm Qalereyası",
+        "name:en": "Sheki State Art Gallery",
+        "name:pl": "Państwowa Galeria Sztuki",
+        "tourism": "museum",
+        "wikimedia_commons": "File:Sheki State Art Gallery.jpg"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 75,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Şeki Khan Palace",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.204392,
+      "lng": 47.1977322
+    },
+    "osm_id": "node/6052332286",
+    "description": "Step back in time to the majestic Şeki Khan Palace in Sheki, Azerbaijan, a 19th-century castle that boasts stunning architecture and breathtaking views of the surrounding mountains. With its rich history and ornate design, this enchanting palace is a must-visit destination for anyone seeking an unforgettable glimpse into Azerbaijan's regal past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "castle",
+        "name:be": "Палац Шэкінскіх ханаў",
+        "name:en": "Şeki Khan Palace",
+        "name:ru": "Дворец Шекинских ханов",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+994516185973"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 73,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 70,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Shakikhanov (Winter) Palace \\ Şəki",
+    "name_local": "Şəkixanovlar Ev Muzeyi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.202646,
+      "lng": 47.1903088
+    },
+    "osm_id": "node/5088734123",
+    "description": "Step into the enchanting Winter Palace of Shakikhanov, a stunning historic castle nestled in the picturesque city of Sheki, Azerbaijan. This majestic 19th-century palace exudes elegance and grandeur, offering a glimpse into the region's rich history and cultural heritage.",
+    "metadata": {
+      "osm_tags": {
+        "castle_type": "palace",
+        "historic": "castle",
+        "name": "Şəkixanovlar Ev Muzeyi",
+        "name:en": "Shakikhanov (Winter) Palace \\ Şəki",
+        "name:ru": "Дом Шекихановых",
+        "wikipedia": "az: Şəkixanovların_evi",
+        "wikipedia:az": "az:Şəkixanovların_evi",
+        "wikipedia:en": "en:Shakikhanovs%27_Palace"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 72,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 40,
+      "beach_lover": 0,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Upper Caravanserai",
+    "name_local": "Yuxarı Karvansara \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2009548,
+      "lng": 47.1940617
+    },
+    "osm_id": "node/7976541514",
+    "description": "Here is a short and inviting travel description:\n\nStep back in time to the 18th century at the Upper Caravanserai in Sheki, a stunning historic manor that once provided refuge for weary travelers along the ancient Silk Road. Today, this beautifully preserved attraction offers a glimpse into Azerbaijan's rich past, with its ornate architecture and tranquil atmosphere waiting to be discovered.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Yuxarı Karvansara \\ Şəki",
+        "name:az": "Yuxarı Karvansara \\ Şəki",
+        "name:en": "Upper Caravanserai",
+        "tourism": "attraction",
+        "wikidata": "Q4522517",
+        "wikimedia_commons": "Category:Upper Caravanserai",
+        "wikipedia": "en:Shaki_Caravanserai",
+        "wikipedia:az": "az:Yuxarı_Karvansara_(Şəki)",
+        "wikipedia:en": "en:Shaki_Caravanserai"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Lower Caravanserai",
+    "name_local": "Aşağı Karvansaray \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2006531,
+      "lng": 47.1917537
+    },
+    "osm_id": "node/7976541515",
+    "description": "Step into the tranquil surroundings of the Lower Caravanserai in ancient Sheki, where this 18th-century manor house now welcomes visitors as a charming attraction. Wander through its beautifully restored courtyards and halls to experience a glimpse of Azerbaijan's rich history and hospitality.",
+    "metadata": {
+      "osm_tags": {
+        "heritage": "yes",
+        "heritage:operator": "az",
+        "historic": "manor",
+        "name": "Aşağı Karvansaray \\ Şəki",
+        "name:az": "Aşağı Karvansaray \\ Şəki",
+        "name:en": "Lower Caravanserai",
+        "tourism": "attraction",
+        "wikidata": "Q16417458",
+        "wikimedia_commons": "Category:Lower Caravanserai",
+        "wikipedia": "en:Ashaghy caravanserai",
+        "wikipedia:az": "az:Aşağı_Karvansara_(Şəki)",
+        "wikipedia:en": "en:Ashaghy_caravanserai"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 68,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 25
+    }
+  },
+  {
+    "name": "Shaki Museum of History and Local Lore",
+    "name_local": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.2037205,
+      "lng": 47.1957332
+    },
+    "osm_id": "node/6010366988",
+    "description": "Step into the rich history of Azerbaijan at the Shaki Museum of History and Local Lore, nestled in the charming city of Sheki, where ancient traditions meet modern culture. Discover the secrets of this ancient Silk Road town through its fascinating exhibits and artifacts, showcasing a vibrant heritage that will leave you enchanted.",
+    "metadata": {
+      "osm_tags": {
+        "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+        "name:en": "Shaki Museum of History and Local Lore",
+        "name:pl": "Muzeum Regionalne",
+        "tourism": "museum",
+        "wikidata": "Q47536155",
+        "wikimedia_commons": "File:Sheki Museum of History and Local Lore.jpg",
+        "wikipedia": "en:Shaki Museum of History and Local Lore"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 67,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Mirza Fatali Akhundov monument",
+    "name_local": "Axundov heykəli \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2035523,
+      "lng": 47.1782997
+    },
+    "osm_id": "node/5867003585",
+    "description": "Visit the majestic Mirza Fatali Akhundov monument in the charming city of Sheki, where stunning architecture and rich history come alive. This iconic landmark is a must-see for anyone exploring Azerbaijan's ancient heritage.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Axundov heykəli \\ Şəki",
+        "name:en": "Mirza Fatali Akhundov monument"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "Thor Heyerdhal",
+    "name_local": "Tur Heyerdal \\ Kiş",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2491319,
+      "lng": 47.193497
+    },
+    "osm_id": "node/6008070092",
+    "description": "Here is a short, inviting travel description:\n\nVisit the poignant Thor Heyerdahl Memorial in Sheki, Azerbaijan, dedicated to the renowned explorer who lived and worked in this ancient city. Step into the serene surroundings of this historic site, where you can pay tribute to the memory of this legendary adventurer.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Tur Heyerdal \\ Kiş",
+        "name:en": "Thor Heyerdhal"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 30,
+      "beach_lover": 20,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Underground bath 19th century",
+    "name_local": "Yeraltı hamam 19-cu əsr \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2030123,
+      "lng": 47.1811751
+    },
+    "osm_id": "node/8312827199",
+    "description": "Step back in time to the 19th century and immerse yourself in the tranquil atmosphere of Sheki's stunning underground bath, a historic gem preserved from a bygone era. This hidden oasis offers a glimpse into Azerbaijan's rich past, its ancient stones whispering secrets of a forgotten world.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Yeraltı hamam 19-cu əsr \\ Şəki",
+        "name:en": "Underground bath 19th century"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 85
+    }
+  },
+  {
+    "name": "Aghvan's hammam 19th c.",
+    "name_local": "Albanlar hamamı 19-cu əsr \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2004896,
+      "lng": 47.1895168
+    },
+    "osm_id": "node/8312827200",
+    "description": "Step back in time to 19th century Azerbaijan at Aghvan's Hammam, a beautifully preserved historic manor house in the charming city of Sheki. This enchanting attraction offers a glimpse into the region's rich cultural heritage and is not to be missed for history buffs and travelers seeking an authentic experience.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Albanlar hamamı 19-cu əsr \\ Şəki",
+        "name:az": "Ağvanlar hamamı 19-cu əsr \\ Şəki",
+        "name:en": "Aghvan's hammam 19th c.",
+        "tourism": "attraction",
+        "wikimedia_commons": "Category:Aghvanlar Bathhouse"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Khan's Pasture",
+    "name_local": "Xan Yaylağı",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.231526,
+      "lng": 47.2299708
+    },
+    "osm_id": "node/11222943762",
+    "description": "Escape to the serene beauty of Khan's Pasture in Sheki, a tranquil oasis that once served as the royal summer residence of the 18th-century rulers. Wander through the lush greenery and imagine the nobility strolling beneath these very trees centuries ago.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "yes",
+        "name": "Xan Yaylağı",
+        "name:en": "Khan's Pasture"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "1941-1945 War Memorial and City Panorama",
+    "name_local": "1941-1945 Abidə \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1983336,
+      "lng": 47.1857128
+    },
+    "osm_id": "node/4308357489",
+    "description": "Here's a short, inviting travel description:\n\nStand atop the majestic hill of Sheki and take in breathtaking views of the city from the 1941-1945 War Memorial and City Panorama. This historic monument offers a poignant tribute to Azerbaijan's war heroes, with a stunning panorama of the surrounding landscape.",
+    "metadata": {
+      "osm_tags": {
+        "access": "yes",
+        "historic": "monument",
+        "memorial": "war_memorial",
+        "name": "1941-1945 Abidə \\ Şəki",
+        "name:en": "1941-1945 War Memorial and City Panorama"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 10,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Omar Efendi Mosque",
+    "name_local": "Ömər Əfəndi məscidi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.2004767,
+      "lng": 47.1877656
+    },
+    "osm_id": "node/4434691492",
+    "description": "Here is a short, inviting travel description:\n\nStep into the serene beauty of Omar Efendi Mosque in Sheki, Azerbaijan, a stunning example of Islamic architecture that has stood the test of time. This 18th-century temple offers a peaceful escape from the bustling streets, perfect for spiritual reflection and soaking up the rich history of this enchanting city.",
+    "metadata": {
+      "osm_tags": {
+        "addr:door": "161",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "check_date": "2023-07-18",
+        "historic": "yes",
+        "name": "Ömər Əfəndi məscidi",
+        "name:en": "Omar Efendi Mosque",
+        "religion": "muslim",
+        "tourism": "attraction",
+        "wikipedia": "en:Omar_Efendi_Mosque",
+        "wikipedia:en": "en:Omar_Efendi_Mosque"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 65,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 15,
+      "wellness_retreater": 70
+    }
+  },
+  {
+    "name": "Church of Saint Elishe \\ Kish",
+    "name_local": "Müqəddəs Yelisey kilsəsi \\ Kiş",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 41.2490039,
+      "lng": 47.1932787
+    },
+    "osm_id": "node/3303227547",
+    "description": "Discover the serene beauty of the ancient Church of Saint Elishe in Sheki's picturesque streets. This historic Christian temple offers a glimpse into the region's rich spiritual heritage and is a must-visit attraction for travelers seeking cultural insight.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Kiş",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "historic": "yes",
+        "int_name": "Church of Saint Elishe",
+        "name": "Müqəddəs Yelisey kilsəsi \\ Kiş",
+        "name:az": "Müqəddəs Yelisey kilsəsi \\ Kiş",
+        "name:en": "Church of Saint Elishe \\ Kish",
+        "name:pl": "Kościół św. Elizeusza \\ Kisz",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikipedia": "en:Church_of_Kish"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 80
+    }
+  },
+  {
+    "name": "Dağ Karvansara",
+    "name_local": "Dağ Karvansara",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2123178,
+      "lng": 47.135717
+    },
+    "osm_id": "node/7997920131",
+    "description": "Escape to the enchanting Dağ Karvansara in historic Sheki, Azerbaijan, where ancient stone walls and beautifully restored architecture transport you back in time to a tranquil era of elegance. Nestled amidst lush surroundings, this 18th-century manor offers an unforgettable retreat from the modern world.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Dağ Karvansara"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Heydər Əliyev abidəsi \\ Şəki",
+    "name_local": "Heydər Əliyev abidəsi \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2037478,
+      "lng": 47.1815948
+    },
+    "osm_id": "node/7985800237",
+    "description": "Here is a short and inviting travel description:\n\nVisit the majestic Heydər Əliyev Memorial in picturesque Šaki, where history and beauty blend together. This stunning monument stands as a tribute to the city's rich past, offering breathtaking views of the surrounding landscape.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Heydər Əliyev abidəsi \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Axundov heykəli \\ Şəki",
+    "name_local": "Axundov heykəli \\ Şəki",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2048042,
+      "lng": 47.1667555
+    },
+    "osm_id": "node/7993080900",
+    "description": "Here's a short and inviting travel description:\n\nVisit the majestic Axundov heykəli in Şəki, Azerbaijan, a stunning memorial that honors the great architect Huseyn Aga Aliyev, who designed this charming city's iconic landmarks. Wander through the picturesque streets of Sheki and pay your respects to this legendary figure at his beautiful monument.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Axundov heykəli \\ Şəki"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 60,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Heydər Əliyev heykəli",
+    "name_local": "Heydər Əliyev heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.2103514,
+      "lng": 47.1596637
+    },
+    "osm_id": "node/7997938199",
+    "description": "Visit the majestic Heydər Əliyev heykəli in stunning Sheki, a city rich in history and culture. This imposing monument serves as a poignant tribute to Azerbaijan's revered leader, surrounded by breathtaking views of the surrounding mountains.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Heydər Əliyev heykəli"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "2-ci fabrikin binası 19-cu əsr",
+    "name_local": "2-ci fabrikin binası 19-cu əsr",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1897806,
+      "lng": 47.1727583
+    },
+    "osm_id": "node/8312865116",
+    "description": "Here is a short, inviting travel description for the 2-ci fabrikin binası 19-cu əsr in Sheki:\n\nStep back in time to 19th-century elegance at the historic 2-ci fabrikin binası, where ornate architecture and storied past await your discovery in the charming city of Sheki. This beautifully preserved manor house is a treasure trove of cultural heritage, waiting to be explored.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "2-ci fabrikin binası 19-cu əsr"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Qışlaq hamamı 19-cu əsr",
+    "name_local": "Qışlaq hamamı 19-cu əsr",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 41.1872878,
+      "lng": 47.1712026
+    },
+    "osm_id": "node/8312885557",
+    "description": "Here's a possible travel description:\n\nImmerse yourself in the rich history of Azerbaijan at Qışlaq Hamamı, a stunning 19th-century manor in the picturesque city of Sheki. This enchanting historic site offers a glimpse into the past, with its beautifully preserved architecture and tranquil surroundings inviting you to step back in time.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "manor",
+        "name": "Qışlaq hamamı 19-cu əsr"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 5,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "Hamam XIX əsr \\ Şəki",
+    "name_local": null,
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 41.2029334,
+      "lng": 47.1811323
+    },
+    "osm_id": "node/11019605405",
+    "description": "Step back in time at Hamam XIX əsr, a beautifully restored 19th-century hamam turned museum, showcasing the rich history and cultural heritage of Azerbaijan's stunning city of Şeki. Immerse yourself in the region's fascinating past as you explore the intricately designed spaces and exhibits within this charming museum.",
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Hamam XIX əsr \\ Şəki",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Sheki",
+    "country_code": "Azerbaijan",
+    "priority_score": 60,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 40,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 60,
+      "wellness_retreater": 50
+    }
+  }
+]

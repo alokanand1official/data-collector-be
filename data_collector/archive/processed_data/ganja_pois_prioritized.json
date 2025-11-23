@@ -1,0 +1,1387 @@
+[
+  {
+    "name": "Nizami Gandjevi Mausoleum",
+    "name_local": "Nizami Gəncəvinin məğbərəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6855104,
+      "lng": 46.4327288
+    },
+    "osm_id": "node/2313008264",
+    "description": "Step into the tranquil surroundings of the Nizami Ganjavi Mausoleum in Ganja, Azerbaijan, where the final resting place of this 12th-century poet and philosopher awaits. This stunning memorial is a testament to the region's rich cultural heritage, honoring the legacy of one of its most revered literary figures.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "poet_memorial",
+        "name": "Nizami Gəncəvinin məğbərəsi",
+        "name:az": "Nizami Gəncəvinin məğbərəsi",
+        "name:en": "Nizami Gandjevi Mausoleum",
+        "name:ru": "Мавзолей Низами Гянджеви"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Nizami Ganjavi Statue",
+    "name_local": "Nizami Gencevi Heykeli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6795437,
+      "lng": 46.3688574
+    },
+    "osm_id": "node/4346173689",
+    "description": "Standing tall in the heart of Ganja, Azerbaijan's stunning Nizami Ganjavi Statue is a poignant tribute to the city's most celebrated son - the renowned poet and philosopher. This majestic monument offers a glimpse into Ganja's rich cultural heritage and serves as a symbol of pride for the people of this historic city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Nizami Gencevi Heykeli",
+        "name:en": "Nizami Ganjavi Statue",
+        "name:tr": "Nizami Gencevi Heykeli"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 30,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Dayirman circle",
+    "name_local": "Dəyirman dairəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6974922,
+      "lng": 46.3732977
+    },
+    "osm_id": "node/7149822012",
+    "description": "Discover the ancient charm of Azerbaijan at Dayirman Circle, a historic monument in the heart of Ganja, where centuries-old traditions and stunning architecture come together to create an unforgettable experience. Step into this captivating circle, steeped in history and intrigue, and immerse yourself in the rich heritage of this enchanting city.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Dəyirman dairəsi",
+        "name:en": "Dayirman circle",
+        "name:ru": "Круг \"Даирман\"",
+        "source": "Bing Aerial Image"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 66,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 5,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "Museum of History",
+    "name_local": "Tarixşünaslıq Muzeyi",
+    "poi_type": "museum",
+    "coordinates": {
+      "lat": 40.680504,
+      "lng": 46.3580709
+    },
+    "osm_id": "node/4308707691",
+    "description": "Step into the rich past of Azerbaijan at the Museum of History in Ganja, where ancient artifacts and exhibits reveal the secrets of a storied city that's been a crossroads of cultures for centuries. From archaeological treasures to historic memorabilia, this museum offers a fascinating glimpse into the region's complex and captivating history.",
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Mustafa Kemal Atatürk",
+        "name": "Tarixşünaslıq Muzeyi",
+        "name:az": "Tarixşünaslıq Muzeyi",
+        "name:en": "Museum of History",
+        "name:es": "Museo de Historia",
+        "name:pl": "Muzeum Historyczne",
+        "tourism": "museum"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 65,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 80,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Alexander Nevski Church",
+    "name_local": "Aleksandr Nevski kilsəsi",
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 40.6792805,
+      "lng": 46.3564581
+    },
+    "osm_id": "node/4820676827",
+    "description": "Here's a short and inviting travel description for the Alexander Nevski Church:\n\nStep into the stunning Alexander Nevski Church in Ganja, Azerbaijan, where stunning architecture and rich history blend together to create an unforgettable experience. This breathtaking Christian temple is a must-visit attraction that will transport you to a world of beauty and spirituality.",
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Gəncə",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "russian_orthodox",
+        "historic": "yes",
+        "name": "Aleksandr Nevski kilsəsi",
+        "name:az": "Aleksandr Nevski kilsəsi",
+        "name:en": "Alexander Nevski Church",
+        "name:pl": "Cerkiew św. Aleksandra Newskiego",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1424921",
+        "wikimedia_commons": "Category:Alexander Nevsky church in Gəncə",
+        "wikipedia": "az:Aleksandr Nevski kilsəsi (Gəncə)"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 63,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 80
+    }
+  },
+  {
+    "name": "Məhəmməd Fizulinin heykəli",
+    "name_local": "Məhəmməd Fizulinin heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6875565,
+      "lng": 46.3855003
+    },
+    "osm_id": "node/2081894222",
+    "description": "Visit the poignant Məhəmməd Fizuli Monument in Ganja, a tribute to one of Azerbaijan's greatest poets and thinkers. Standing as a symbol of the city's rich literary heritage, this memorial is a must-see for history buffs and literature lovers alike.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Məhəmməd Fizulinin heykəli",
+        "name:az": "Məhəmməd Fizulinin heykəli"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 95,
+      "adventure_seeker": 10,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 5,
+      "wellness_retreater": 15
+    }
+  },
+  {
+    "name": "Heydər Əliyev Heykəli",
+    "name_local": "Heydər Əliyev Heykəli",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6802996,
+      "lng": 46.3600088
+    },
+    "osm_id": "node/2386937487",
+    "description": "Visit the majestic Heydar Aliyev Memorial in Ganja, a stunning tribute to the city's rich history and cultural heritage. Standing tall against the backdrop of Azerbaijan's picturesque landscape, this iconic monument is a must-see for anyone interested in exploring the country's storied past.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Heydər Əliyev Heykəli"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 30
+    }
+  },
+  {
+    "name": "Bayraq meydani",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.678204,
+      "lng": 46.369828
+    },
+    "osm_id": "node/4395333991",
+    "description": "Here is a short, inviting travel description:\n\nStep into the storied past of Azerbaijan at Bayraq meydani in Ganja, where history meets elegance amidst this stunning monument. Surrounded by the city's rich heritage, this iconic landmark beckons you to discover its secrets and immerse yourself in the region's fascinating story.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name:en": "Bayraq meydani"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 50,
+      "wellness_retreater": 10
+    }
+  },
+  {
+    "name": "The capital of The Youth",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6761167,
+      "lng": 46.3740696
+    },
+    "osm_id": "node/6600683290",
+    "description": "Step into the vibrant heart of Azerbaijan in Ganja, the capital of youth, where ancient history meets modern charm. Visit the stunning monument that stands as a testament to the city's rich past, a must-see for any traveler seeking a taste of tradition and culture.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name:en": "The capital of The Youth"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 50,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "20 Yanvar abidəsi",
+    "name_local": "20 Yanvar abidəsi",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6843827,
+      "lng": 46.3887422
+    },
+    "osm_id": "node/11083609919",
+    "description": "Visit the poignant 20 January Memorial in Ganja, Azerbaijan, a historic tribute to the victims of the Black January tragedy. Standing as a powerful symbol of remembrance and resilience, this memorial is a must-see for anyone exploring the city's rich history.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "20 Yanvar abidəsi"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 90,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 40,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 50
+    }
+  },
+  {
+    "name": "Istiglal Park",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6418498,
+      "lng": 46.3409246
+    },
+    "osm_id": "node/6600725385",
+    "description": "Here is a short and inviting travel description:\n\nEscape to the serene beauty of Istiglal Park in Ganja, where the somber elegance of this historic memorial park pays tribute to Azerbaijan's rich past. Stroll through the tranquil gardens and reflect on the significance of this revered site.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name:en": "Istiglal Park"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 30,
+      "beach_lover": 0,
+      "luxury_traveler": 20,
+      "culinary_enthusiast": 40,
+      "wellness_retreater": 60
+    }
+  },
+  {
+    "name": "Göygöl şəhəri - Giriş",
+    "name_local": "Göygöl şəhəri - Giriş",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6030136,
+      "lng": 46.3304776
+    },
+    "osm_id": "node/8538244113",
+    "description": "Here's a short and inviting travel description:\n\nDiscover the serene beauty of Göygöl şəhəri, a historic gem nestled in the heart of Ganja, where ancient monuments tell stories of a bygone era. As you wander through this enchanting city, be transported to a world of timeless charm and tranquility.",
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "Göygöl şəhəri - Giriş"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 61,
+    "priority_tier": "important",
+    "enrichment_priority": 2,
+    "persona_scores": {
+      "cultural_explorer": 85,
+      "adventure_seeker": 20,
+      "beach_lover": 0,
+      "luxury_traveler": 10,
+      "culinary_enthusiast": 30,
+      "wellness_retreater": 40
+    }
+  },
+  {
+    "name": "Bottle house",
+    "name_local": "Butulka ev",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6817216,
+      "lng": 46.3556917
+    },
+    "osm_id": "node/4822180621",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Butulka ev",
+        "name:az": "Butulka ev",
+        "name:en": "Bottle house",
+        "name:es": "Casa de las botellas",
+        "name:ru": "Бутылочный дом",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 58,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "zafar tagh",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6908474,
+      "lng": 46.334126
+    },
+    "osm_id": "node/5682502523",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name:en": "zafar tagh"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 56,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Surb Grigor Lusavorich Church",
+    "name_local": null,
+    "poi_type": "temple",
+    "coordinates": {
+      "lat": 40.6607314,
+      "lng": 46.3597694
+    },
+    "osm_id": "node/6013089395",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Gəncə",
+        "addr:housenumber": "64",
+        "addr:street": "Hacı Zeynalabdın Tağıyev",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "armenian_apostolic",
+        "name:en": "Surb Grigor Lusavorich Church",
+        "name:pl": "Kościół ormiański",
+        "religion": "christian",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 56,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Cavad Khan",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.6770855,
+      "lng": 46.3585568
+    },
+    "osm_id": "node/6600756885",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name:en": "Cavad Khan"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 56,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Old mural",
+    "name_local": null,
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.669139,
+      "lng": 46.3644731
+    },
+    "osm_id": "node/9976358620",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "Old mural",
+        "name:fr": "Old mural",
+        "tourism": "attraction"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 56,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "GƏNCƏ",
+    "name_local": "GƏNCƏ",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.7255818,
+      "lng": 46.2578648
+    },
+    "osm_id": "node/9680972842",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "monument",
+        "name": "GƏNCƏ"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 46,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Abidə",
+    "name_local": "Abidə",
+    "poi_type": "historic",
+    "coordinates": {
+      "lat": 40.7129515,
+      "lng": 46.3042778
+    },
+    "osm_id": "node/8951222586",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "historic": "memorial",
+        "name": "Abidə",
+        "source": "survey"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 46,
+    "priority_tier": "recommended",
+    "enrichment_priority": 3
+  },
+  {
+    "name": "Osmanlı dönər",
+    "name_local": "Osmanlı dönər",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.681784,
+      "lng": 46.3587859
+    },
+    "osm_id": "node/6600732186",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:housenumber": "247",
+        "addr:street": "Mustafa Kemal Ataturk",
+        "amenity": "restaurant",
+        "name": "Osmanlı dönər",
+        "opening_hours": "24/7",
+        "phone": "+994502071884",
+        "website": "https://www.facebook.com/osmanliganja"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 38,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Cinema Boutique Hotel. Real location",
+    "name_local": "Cinema Butik Hotel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.6733167,
+      "lng": 46.360457
+    },
+    "osm_id": "node/4834855223",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Cinema Butik Hotel",
+        "name:en": "Cinema Boutique Hotel. Real location",
+        "name:es": "Cinema  Boutique Hotel. Ubicación real",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 35,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Xan arxı çayçı",
+    "name_local": "Xan arxı çayçı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6708379,
+      "lng": 46.3349279
+    },
+    "osm_id": "node/5907860386",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Xan arxı çayçı",
+        "opening_hours": "24/7",
+        "operator": "Seymur / Səbuhi"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Ganja Hotel",
+    "name_local": "Ganja Hotel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.6797011,
+      "lng": 46.3607761
+    },
+    "osm_id": "node/4194219095",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Ganja Hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "My Way hotel",
+    "name_local": null,
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.6736469,
+      "lng": 46.3665587
+    },
+    "osm_id": "node/4441724991",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name:en": "My Way hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Svetlana Delicious Pies",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.674794,
+      "lng": 46.3554838
+    },
+    "osm_id": "node/5527083926",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "cuisine": "sandwich;regional;tea;cake;local;bagel;donut;arab",
+        "name:en": "Svetlana Delicious Pies",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Akustik Melodi",
+    "name_local": "Melody cafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6750443,
+      "lng": 46.3606096
+    },
+    "osm_id": "node/9975127717",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Melody cafe",
+        "name:en": "Akustik Melodi",
+        "name:fr": "Akustik Melodi"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "City Smiles Time Cafe",
+    "name_local": "City Smiles Time Cafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6870614,
+      "lng": 46.3590625
+    },
+    "osm_id": "node/13047649573",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Gəncə",
+        "addr:housenumber": "45",
+        "addr:postcode": "AZ2003",
+        "addr:street": "Ruzigar Qasımov",
+        "amenity": "cafe",
+        "cuisine": "anti_cafe",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "City Smiles Time Cafe",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kubar Restaurant",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6411437,
+      "lng": 46.3396327
+    },
+    "osm_id": "node/6600778586",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Gəncə Kəlbəcər yolu",
+        "amenity": "restaurant",
+        "name:en": "Kubar Restaurant",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 30,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Gülşad Kafe",
+    "name_local": "Gülşad Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6353942,
+      "lng": 46.4056639
+    },
+    "osm_id": "node/8538331558",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Hacıməlik",
+        "amenity": "cafe",
+        "name": "Gülşad Kafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Sərin Şadlıq Sarayı",
+    "name_local": "Sərin Şadlıq Sarayı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6952564,
+      "lng": 46.292028
+    },
+    "osm_id": "node/5873571785",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Sərin Şadlıq Sarayı"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Fantaziya Restoran",
+    "name_local": "Fantaziya Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6987622,
+      "lng": 46.3422598
+    },
+    "osm_id": "node/11432046017",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Fantaziya Restoran"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Zolotoy Manqal",
+    "name_local": "Zolotoy Manqal",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6967135,
+      "lng": 46.3348738
+    },
+    "osm_id": "node/11432046019",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Zolotoy Manqal"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kolorit Kafe",
+    "name_local": "Kolorit Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.673177,
+      "lng": 46.3602846
+    },
+    "osm_id": "node/4308687003",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Cavad Xan",
+        "amenity": "restaurant",
+        "name": "Kolorit Kafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Epikür Bağı",
+    "name_local": "Epikür Bağı",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6793221,
+      "lng": 46.3607896
+    },
+    "osm_id": "node/4308687005",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Şeyx Bahəddin",
+        "amenity": "restaurant",
+        "name": "Epikür Bağı"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "İstanbul Kafe",
+    "name_local": "İstanbul Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6737938,
+      "lng": 46.3601661
+    },
+    "osm_id": "node/4308696257",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Cavad Xan",
+        "amenity": "cafe",
+        "name": "İstanbul Kafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Chicago Book Cafe",
+    "name_local": "Chicago Book Cafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6702339,
+      "lng": 46.3627087
+    },
+    "osm_id": "node/4308698616",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:street": "Mirzə Abbas Abbaszadə",
+        "amenity": "cafe",
+        "name": "Chicago Book Cafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Art Garden Ganja",
+    "name_local": "Art Garden Ganja",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6739833,
+      "lng": 46.3554325
+    },
+    "osm_id": "node/6377522552",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Gəncə",
+        "addr:postcode": "AZ2000",
+        "amenity": "cafe",
+        "name": "Art Garden Ganja"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kafe Zolotoy",
+    "name_local": "Kafe Zolotoy",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6789537,
+      "lng": 46.3603528
+    },
+    "osm_id": "node/6743751687",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe Zolotoy"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Coffeemania",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6770759,
+      "lng": 46.3596948
+    },
+    "osm_id": "node/9974162117",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Coffeemania",
+        "name:fr": "Coffeemania"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Furor Restaurant",
+    "name_local": "Furor Restaurant",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6840509,
+      "lng": 46.3622063
+    },
+    "osm_id": "node/9974169017",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Furor Restaurant",
+        "name:en": "Furor Restaurant",
+        "name:fr": "Furor Restaurant"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Art Garden Cafe",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6773697,
+      "lng": 46.3626357
+    },
+    "osm_id": "node/9975103917",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name:en": "Art Garden Cafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "local restaurant",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.680057,
+      "lng": 46.3638463
+    },
+    "osm_id": "node/9979447318",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name:en": "local restaurant",
+        "name:fr": "local restaurant"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Orange cafe",
+    "name_local": "Orange cafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6729777,
+      "lng": 46.3600997
+    },
+    "osm_id": "node/11420339871",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Orange cafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "London cafe",
+    "name_local": "London cafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6742601,
+      "lng": 46.3603173
+    },
+    "osm_id": "node/11420339872",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "London cafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Baku Hotel",
+    "name_local": "Baku Hotel",
+    "poi_type": "hotel",
+    "coordinates": {
+      "lat": 40.6811134,
+      "lng": 46.3634498
+    },
+    "osm_id": "node/11420339927",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "name": "Baku Hotel",
+        "tourism": "hotel"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Ailəvi İstirahət Mərkəzi \\ Sərkər",
+    "name_local": "Ailəvi İstirahət Mərkəzi \\ Sərkər",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6403381,
+      "lng": 46.2505746
+    },
+    "osm_id": "node/12410003266",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Ailəvi İstirahət Mərkəzi \\ Sərkər"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Gədəbəy kafe",
+    "name_local": "Gədəbəy kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.7049926,
+      "lng": 46.3214639
+    },
+    "osm_id": "node/11257551638",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Gədəbəy kafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kəpəz Kafe \\ Göygöl ş.",
+    "name_local": "Kəpəz Kafe \\ Göygöl ş.",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6063797,
+      "lng": 46.3259796
+    },
+    "osm_id": "node/8538386824",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "addr:city": "Göygöl ş.",
+        "amenity": "cafe",
+        "name": "Kəpəz Kafe \\ Göygöl ş."
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Böyük Aşırım Restoran",
+    "name_local": "Böyük Aşırım Restoran",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.611843,
+      "lng": 46.314556
+    },
+    "osm_id": "node/8538599046",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Böyük Aşırım Restoran"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Araz Restoran \\ Göygöl ş.",
+    "name_local": "Araz Restoran \\ Göygöl ş.",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6008936,
+      "lng": 46.325659
+    },
+    "osm_id": "node/12634118541",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name": "Araz Restoran \\ Göygöl ş."
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 25,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Sahil Cafe",
+    "name_local": "Sahil Cafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.6709456,
+      "lng": 46.359149
+    },
+    "osm_id": "node/4308700229",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Sahil Cafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 20,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Şaurma №1",
+    "name_local": "Şaurma №1",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.678622,
+      "lng": 46.3591537
+    },
+    "osm_id": "node/4308833794",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Şaurma №1"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 20,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Mohito",
+    "name_local": "Mohito",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.670016,
+      "lng": 46.3632821
+    },
+    "osm_id": "node/4311183989",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Mohito"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 20,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Eriklik",
+    "name_local": null,
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.7184481,
+      "lng": 46.2967077
+    },
+    "osm_id": "node/6547776586",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "restaurant",
+        "name:en": "Eriklik"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 20,
+    "priority_tier": "optional",
+    "enrichment_priority": 4
+  },
+  {
+    "name": "Kafe",
+    "name_local": "Kafe",
+    "poi_type": "restaurant",
+    "coordinates": {
+      "lat": 40.7159238,
+      "lng": 46.4350972
+    },
+    "osm_id": "node/9571630534",
+    "description": null,
+    "metadata": {
+      "osm_tags": {
+        "amenity": "cafe",
+        "name": "Kafe"
+      }
+    },
+    "city_name": "Ganja",
+    "country_code": "Azerbaijan",
+    "priority_score": 10,
+    "priority_tier": "low_priority",
+    "enrichment_priority": 5
+  }
+]
