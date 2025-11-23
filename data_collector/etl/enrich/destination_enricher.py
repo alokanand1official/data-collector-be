@@ -13,7 +13,7 @@ class DestinationEnricher:
     Generates: Monthly Insights, Safety, Budget, Recommendations.
     """
     
-    def __init__(self, gold_dir: Path = Path("layers/gold"), model: str = "llama3.1"):
+    def __init__(self, gold_dir: Path = Path("layers/gold"), model: str = "gemma3:12b"):
         self.gold_dir = gold_dir
         self.model = model
         self.api_url = "http://localhost:11434/api/generate"

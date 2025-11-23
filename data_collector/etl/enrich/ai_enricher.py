@@ -13,7 +13,7 @@ class AIEnricher:
     Enriches Silver data with AI (Ollama) to create Gold data.
     """
     
-    def __init__(self, silver_dir: Path, gold_dir: Path, model: str = "llama3.1"):
+    def __init__(self, silver_dir: Path, gold_dir: Path, model: str = "gemma3:12b"):
         self.silver_dir = silver_dir
         self.gold_dir = gold_dir
         self.model = model

@@ -14,7 +14,7 @@ class ParallelAIEnricher:
     Uses ThreadPoolExecutor to enrich multiple POIs simultaneously.
     """
     
-    def __init__(self, silver_dir: Path, gold_dir: Path, model: str = "llama3.1", max_workers: int = 5):
+    def __init__(self, silver_dir: Path, gold_dir: Path, model: str = "gemma3:12b", max_workers: int = 5):
         self.silver_dir = silver_dir
         self.gold_dir = gold_dir
         self.model = model
