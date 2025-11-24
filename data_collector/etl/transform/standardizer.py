@@ -129,6 +129,33 @@ class Standardizer:
             if not lat or not lon:
                 continue
                 
+            # Extract additional practical information from tags
+            opening_hours = tags.get('opening_hours')
+            
+            # Build address from components
+            address_parts = []
+            if tags.get('addr:street'):
+                street = tags.get('addr:street')
+                housenumber = tags.get('addr:housenumber', '')
+                address_parts.append(f"{housenumber} {street}".strip())
+            if tags.get('addr:city'):
+                address_parts.append(tags.get('addr:city'))
+            address = ', '.join(address_parts) if address_parts else None
+            
+            # Extract contact information
+            contact = {}
+            if tags.get('phone') or tags.get('contact:phone') or tags.get('contact:mobile'):
+                contact['phone'] = tags.get('phone') or tags.get('contact:phone') or tags.get('contact:mobile')
+            if tags.get('email') or tags.get('contact:email'):
+                contact['email'] = tags.get('email') or tags.get('contact:email')
+            if tags.get('website') or tags.get('contact:website'):
+                contact['website'] = tags.get('website') or tags.get('contact:website')
+            
+            # Extract wikidata/wikimedia for photos
+            wikidata = tags.get('wikidata')
+            wikimedia_commons = tags.get('wikimedia_commons')
+            wikipedia = tags.get('wikipedia')
+            
             poi = {
                 "osm_id": f"{el['type']}/{el['id']}",
                 "name": name,
@@ -137,7 +164,14 @@ class Standardizer:
                 "lat": lat,  # Required for validation
                 "lon": lon,  # Required for validation
                 "coordinates": {"lat": lat, "lon": lon},
-                "tags": tags
+                "tags": tags,
+                # New practical fields
+                "opening_hours": opening_hours,
+                "address": address,
+                "contact": contact if contact else None,
+                "wikidata": wikidata,
+                "wikimedia_commons": wikimedia_commons,
+                "wikipedia": wikipedia
             }
             pois.append(poi)
         return pois

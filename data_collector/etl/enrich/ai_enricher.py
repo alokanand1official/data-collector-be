@@ -142,14 +142,21 @@ class AIEnricher:
         Name: {poi['name']}
         Type: {poi.get('category') or poi.get('poi_type', 'unknown')}
         Tags: {poi.get('tags')}
+        Opening Hours: {poi.get('opening_hours', 'Not specified')}
+        Address: {poi.get('address', 'Not specified')}
 
         Provide a JSON response with:
-        1. "description": A 2-sentence engaging description for a traveler.
-        2. "duration_min": Recommended visit duration in minutes (integer).
-        3. "best_time": Best time of day to visit (Morning/Afternoon/Evening).
-        4. "personas": Score 0-100 for [Culture, Adventure, Food, Relax].
+        1. "description": A 2-3 sentence engaging description for travelers (highlight what makes it special).
+        2. "duration_min": Recommended visit duration in minutes (integer, realistic estimate).
+        3. "best_time": Best time of day to visit (Morning/Afternoon/Evening/Anytime).
+        4. "best_time_reason": One sentence explaining why (e.g., "Morning for fewer crowds and better lighting").
+        5. "personas": Score 0-100 for Culture, Adventure, Food, Relax (be specific to this attraction).
+        6. "price_level": Estimate cost level (0=Free, 1=Budget, 2=Mid-range, 3=Expensive).
+        7. "tips": Array of 2-3 practical visitor tips (e.g., "Bring a camera", "Arrive early to avoid crowds").
+        8. "what_to_expect": One sentence about the visitor experience.
+        9. "is_popular": Boolean - is this a must-see attraction? (true/false)
         
-        Return ONLY valid JSON.
+        Return ONLY valid JSON. Be specific and helpful for travelers.
         """
         
         try:
@@ -165,24 +172,45 @@ class AIEnricher:
                 start = content.find('{')
                 end = content.rfind('}') + 1
                 if start != -1 and end != -1:
-                    return json.loads(content[start:end])
+                    enriched_data = json.loads(content[start:end])
+                    
+                    # Ensure all expected fields are present
+                    enriched_data.setdefault('best_time_reason', 'Good time to visit')
+                    enriched_data.setdefault('price_level', 2)
+                    enriched_data.setdefault('tips', [])
+                    enriched_data.setdefault('what_to_expect', f"A memorable visit to {poi['name']}")
+                    enriched_data.setdefault('is_popular', False)
+                    
+                    return enriched_data
             
-            logger.warning(f"Ollama returned status {response.status_code}. Using MOCK.")
-            return {
-                "description": f"A wonderful {poi.get('category', 'place')} in {city_name}.",
-                "duration_min": 60,
-                "best_time": "Morning",
-                "personas": {"Culture": 80, "Relax": 50}
-            }
+            logger.warning(f"Ollama returned status {response.status_code}. Using FALLBACK.")
+            return self._generate_fallback_enrichment(poi, city_name)
         except Exception as e:
             logger.error(f"Enrichment failed for {poi['name']}: {e}")
-            # Fallback for verification if API fails
-            logger.warning(f"Using MOCK enrichment for {poi['name']}")
-            return {
-                "description": f"A wonderful {poi.get('category', 'place')} in {city_name}.",
-                "duration_min": 60,
-                "best_time": "Morning",
-                "personas": {"Culture": 80, "Relax": 50}
-            }
-            
-        return None
+            logger.warning(f"Using FALLBACK enrichment for {poi['name']}")
+            return self._generate_fallback_enrichment(poi, city_name)
+    
+    def _generate_fallback_enrichment(self, poi: Dict, city_name: str) -> Dict:
+        """Generate fallback enrichment data when AI fails"""
+        category = poi.get('category', 'place')
+        
+        # Infer price level from category
+        price_map = {
+            'museum': 1, 'gallery': 1, 'attraction': 2,
+            'restaurant': 2, 'cafe': 1, 'bar': 2,
+            'hotel': 3, 'viewpoint': 0, 'park': 0,
+            'historic': 0, 'monument': 0, 'memorial': 0
+        }
+        price_level = price_map.get(category, 2)
+        
+        return {
+            "description": f"A wonderful {category} in {city_name}.",
+            "duration_min": 60,
+            "best_time": "Morning",
+            "best_time_reason": "Good time to visit",
+            "personas": {"Culture": 80, "Relax": 50},
+            "price_level": price_level,
+            "tips": [f"Check opening hours before visiting"],
+            "what_to_expect": f"An interesting {category} experience",
+            "is_popular": False
+        }

@@ -96,6 +96,9 @@ class SupabaseLoader:
                 
                 activities = []
                 for poi in pois:
+                    # Extract contact info
+                    contact_info = poi.get('contact', {})
+                    
                     activity = {
                         "destination_id": destination_id,
                         "name": poi['name'],
@@ -104,10 +107,22 @@ class SupabaseLoader:
                         "description": poi.get('description'),
                         "tags": [k for k,v in poi.get('tags', {}).items()],
                         "personas": poi.get('personas', {}),
-                        "is_popular": poi.get('priority_score', 0) > 70,
-                        # New Schema Fields (Defaults for now)
+                        "is_popular": poi.get('is_popular', False),
                         "duration_min": poi.get('duration_min', 60),
-                        "price_level": 2
+                        "price_level": poi.get('price_level', 2),
+                        # New fields from Phase 1 & 2
+                        "opening_hours": poi.get('opening_hours'),
+                        "address": poi.get('address'),
+                        "phone": contact_info.get('phone') if contact_info else None,
+                        "email": contact_info.get('email') if contact_info else None,
+                        "website": contact_info.get('website') if contact_info else None,
+                        "best_time": poi.get('best_time'),
+                        "best_time_reason": poi.get('best_time_reason'),
+                        "tips": poi.get('tips', []),
+                        "what_to_expect": poi.get('what_to_expect'),
+                        "wikidata": poi.get('wikidata'),
+                        "wikimedia_commons": poi.get('wikimedia_commons'),
+                        "wikipedia": poi.get('wikipedia')
                     }
                     activities.append(activity)
                 
